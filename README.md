@@ -95,8 +95,7 @@ If there are chords, which are not on the list and are not in square brackets, t
 
 ## How are keywords processed
 
-As for now, they're read from separate config file. Next update will hopefully feature a common config file, and variations of keywords (ex. upper / lowercase) enerated automatically.
-
+As for now, they're read from separate config file, and most common variations (numbering, a colon, a dot and case variations) are created automatically. Only keywords in a separate line will be understood, but this will probably be fixed later.
 
 ## Known problems
 
