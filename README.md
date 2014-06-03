@@ -14,6 +14,7 @@ It won't be 100% automatic, but preparing a copy-pasted file for output can lite
 * output is produced as LaTeX source code, which needs to be compiled in PDFLaTeX with [Songs](http://songs.sourceforge.net/)  package (by Kevin W. Hamlen, praise the man for awesome work!). 
 * even when the code works perfectly (which, suprisingly, happens from time to time), there might be some corrections in the created LaTeX source to be made, like adjusting line and page breaking etc. This requires some basic understanding of LaTeX and Songs. Refer to the relevant documentation for help
 * this is a working prototype, which has only rudimentary exception handling, input sanitizing and all this stuff that makes a piece of software foolproof. It behaves reasonably on most probable inputs, but if you feed it gibberish, it will obediently serve you random word salad as output 
+* last thing - this was created in Debian and NOT tested anywhere near Windows yet. Should be portable, as both Python and LaTeX are, but...
 
 Ok, you've been warned, so here's the good part.
 
