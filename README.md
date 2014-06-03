@@ -30,7 +30,7 @@ Ok, you've been warned, so here's the good part.
 ## How to prepare input file
 
 * use UTF-8 encoding if any strange characters are present in your input (or change encoding in appropriate TEX file). You might require a text editor slightly less retarded than default Notepad
-* song titles must be explicitly formatted by adding a double hash ("##") at the beginning, the rest of file hopefully will be understood as-it-is
+* song titles must be explicitly formatted by adding a hash ("#") at the beginning, the rest of file hopefully will be understood as-it-is
 * parts of song are separated by empty lines. This might cause most of the editing required, as many websites by default insert a new line between each line of lyrics, but this won't probably be fixed. Too much trouble may appear elsewhere, and the effort to delete a few lines seems not worth it
 * certain parts (choruses, bridges etc.) are identified by a keyword in the first line, ex. "Chorus". Popular choices will be understood, and more can be easily added. 
 
@@ -43,7 +43,7 @@ Ok, you've been warned, so here's the good part.
 
 Example:
 
-    ## Love me do / That Love Song for Retards
+    # Love me do / That Love Song for Retards
     The Beatles
     Lennon, McCartney
     
