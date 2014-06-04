@@ -27,7 +27,7 @@ def load_file (filename):
     infile.close()
     return linelist
 
-def save_file(filename,songbook,append):
+def save_file(filename,songbook, append):
     """Saves output and adds missing newlines"""
     if append:
         try:
@@ -655,7 +655,7 @@ def main ( argv ):
     chord_file = 'chords_ukulele'
     keywords_file = 'keywords.cfg'
     output_file = 'songs.sbd'
-    append = True
+    Append = True
     
     # Arguments handling
     try:                                
@@ -724,7 +724,7 @@ def main ( argv ):
         file_output += song_content
         
     # That's it
-    save_file(output_file,file_output,append)
+    save_file(output_file,file_output, Append)
     
 if __name__ == "__main__":
     main( sys.argv[1:] )
@@ -732,6 +732,5 @@ if __name__ == "__main__":
 
 # TODO
 # escape " character, causes errors in latex
-
 
 
