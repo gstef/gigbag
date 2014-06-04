@@ -91,7 +91,7 @@ But this will NOT:
 
     A times they are a-changin C C
 
-The script will find an abigous "A" at the beginning of line, and not render any chords at all here. So if you find that a line was wrongly processed as lyrics-only, this is the most probable explanation. Add a "%" and it will be ok.
+The script will find an abigous "A" at the beginning of line, and not render any chords at all here. So if you find that a line was wrongly processed as lyrics-only, this is the most probable explanation. Add a "%" and it will be ok. Alternatively, the same misbehaviour might result from an uknnown chord name in the sequence at the end of the line - in that case, just add the chord manually.
     
     
 
@@ -132,7 +132,7 @@ As for now, they're read from separate config file, and most common variations (
 ## Changelog
 
 * Gigbag 0.6.1
-    * added all missing TEX files. Content can be unpacked and compiled with LaTeX, if the environment is configured and Songs package installed
+    * added all missing TEX files. Content can be unpacked and compiled with LaTeX without any additions to the working directory, if the environment is configured and Songs package installed
     * fixed a bug with displaying authors in the header
     * some cleanup and missing docstrings added in the code
 
