@@ -87,6 +87,12 @@ Occasionaly there are problems with 'A' or 'a' at the end or beginning of a line
     
     %A times they are a-changin  G C
     
+But this will NOT:
+
+    A times they are a-changin C C
+
+The script will find an abigous "A" at the beginning of line, and not render any chords at all here. So if you find that a line was wrongly processed as lyrics-only, this is the most probable explanation. Add a "%" and it will be ok.
+    
     
 
 ## How are song sections understood
