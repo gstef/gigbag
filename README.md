@@ -27,6 +27,24 @@ Ok, you've been warned, so here's the good part.
 * output file can be enhanced with all the goodness of the Songs package, including layout tinkering, automatic transposition and other fancy stuff
 * a custom template used for the songbook of Polish Ukulele facebook group is provided, but can be easily adjusted to your needs
 
+## Usage
+
+Paste your songs into a file. Mark the titles and adjust formatting if needed - check below for details. Run the script.
+
+    python3 gigbag.py [-options] <input_file> 
+    
+* -o (--output): Specify output file. By defaults appends to songs.sbd if not specified
+* -k ( --keywords): Specify keywords file. Defaults to keywords.cfg if not specified
+* -c (--chords): Specify chord definitions file. Defaults to chords_ukulele if not specified
+* -w   ( --overwrite): Overwrites output file instead of appending
+
+Review the output file, and let LaTeX do the rest:
+
+    songidx titles.sxd titles.sbx
+    songidx authors.sxd authors.sbx
+    pdflatex chordbook.tex
+
+
 ## How to prepare input file
 
 * use UTF-8 encoding if any strange characters are present in your input (or change encoding in appropriate TEX file). You might require a text editor slightly less retarded than default Notepad
@@ -68,6 +86,12 @@ Be aware that a phrase in square brackets is unconditionally understood as a cho
 Occasionaly there are problems with 'A' or 'a' at the end or beginning of a line, which the script confuses with a chord. If this happens, a quick workaround is to place a '%; character before this letter in the source, which will instruct the script to ignore chordifying this. So this will render correctly:
     
     %A times they are a-changin  G C
+    
+But this will NOT:
+
+    A times they are a-changin C C
+
+The script will find an abigous "A" at the beginning of line, and not render any chords at all here. So if you find that a line was wrongly processed as lyrics-only, this is the most probable explanation. Add a "%" and it will be ok.
     
     
 
