@@ -14,6 +14,7 @@ It won't be 100% automatic, but preparing a copy-pasted file for output can lite
 * output is produced as LaTeX source code, which needs to be compiled in PDFLaTeX with [Songs](http://songs.sourceforge.net/)  package (by Kevin W. Hamlen, praise the man for awesome work!). 
 * even when the code works perfectly (which, suprisingly, happens from time to time), there might be some corrections in the created LaTeX source to be made, like adjusting line and page breaking etc. This requires some basic understanding of LaTeX and Songs. Refer to the relevant documentation for help
 * this is a working prototype, which has only rudimentary exception handling, input sanitizing and all this stuff that makes a piece of software foolproof. It behaves reasonably on most probable inputs, but if you feed it gibberish, it will obediently serve you random word salad as output 
+* last thing - this was created in Debian and NOT tested anywhere near Windows yet. Should be portable, as both Python and LaTeX are, but...
 
 Ok, you've been warned, so here's the good part.
 
@@ -29,7 +30,7 @@ Ok, you've been warned, so here's the good part.
 ## How to prepare input file
 
 * use UTF-8 encoding if any strange characters are present in your input (or change encoding in appropriate TEX file). You might require a text editor slightly less retarded than default Notepad
-* song titles must be explicitly formatted by adding a double hash ("##") at the beginning, the rest of file hopefully will be understood as-it-is
+* song titles must be explicitly formatted by adding a hash ("#") at the beginning, the rest of file hopefully will be understood as-it-is
 * parts of song are separated by empty lines. This might cause most of the editing required, as many websites by default insert a new line between each line of lyrics, but this won't probably be fixed. Too much trouble may appear elsewhere, and the effort to delete a few lines seems not worth it
 * certain parts (choruses, bridges etc.) are identified by a keyword in the first line, ex. "Chorus". Popular choices will be understood, and more can be easily added. 
 
@@ -42,7 +43,7 @@ Ok, you've been warned, so here's the good part.
 
 Example:
 
-    ## Love me do / That Love Song for Retards
+    # Love me do / That Love Song for Retards
     The Beatles
     Lennon, McCartney
     
@@ -94,8 +95,7 @@ If there are chords, which are not on the list and are not in square brackets, t
 
 ## How are keywords processed
 
-As for now, they're read from separate config file. Next update will hopefully feature a common config file, and variations of keywords (ex. upper / lowercase) enerated automatically.
-
+As for now, they're read from separate config file, and most common variations (numbering, a colon, a dot and case variations) are created automatically. Only keywords in a separate line will be understood, but this will probably be fixed later.
 
 ## Known problems
 
