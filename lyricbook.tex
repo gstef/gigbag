@@ -11,25 +11,18 @@
 % GNU General Public License for more details.
 %
 % You should have received a copy of the GNU General Public License
-% along with this program; if not, write
-% to the Free Software
+% along with this program; if not, write to the Free Software
 % Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston,
 % MA  02110-1301, USA.
 %
 % The latest version of this program can be obtained from
 % http://songs.sourceforge.net.
 
-\documentclass[a4paper]{article}
+\documentclass[letterpaper]{article}
 \usepackage[bookmarks]{hyperref}
-\usepackage[chorded]{songs}
+\usepackage[lyric]{songs}
 % \includeonlysongs{2}
 
-\usepackage[polish]{babel}
-\usepackage[T1]{fontenc}
-\usepackage[utf8]{inputenc} 
-
-\usepackage{graphicx}
-\usepackage{fancyhdr}
 \setlength{\oddsidemargin}{0in}
 \setlength{\evensidemargin}{0in}
 \setlength{\textwidth}{6.5in}
@@ -39,42 +32,23 @@
 \setlength{\headsep}{0in}
 \setlength{\textheight}{9.1in}
 \settowidth{\versenumwidth}{1.\ }
-\pagestyle{fancy}
-\newindex{indeks}{titles}
-\newauthorindex{autorzy}{authors}
+\pagestyle{empty}
+
+\newindex{titleidx}{lbtitle}
+\newauthorindex{authidx}{lbauth}
+\newscripindex{scripidx}{lbscrip}
 
 \begin{document}
-\fancyhf{}
-\cfoot{https://www.facebook.com/groups/polish.ukulele 
-	\hfill \includegraphics[width=50pt]{logo.png}
-}
-\footskip = 50pt
-\showindex{Indeks}{indeks}
-\renewcommand{\extendprelude}{
- \showauthors \songcopyright
-}
-% \pagepreludes
 
-\renewcommand{\extendpostlude}{}
+\showindex{Complete Index of Songs}{titleidx}
 
-
-
-% \songsection{Worship Songs}
-\begin{songs}{indeks,autorzy}
+\songsection{Worship Songs}
+\begin{songs}{titleidx,authidx,scripidx}
 \input{songs.sbd}
 \end{songs}
 
-
-
-
-
-% \showindex{Index of Authors and Composers}{authidx}
-% \showindex{Index of Scripture}{scripidx}
-
-
-
-
-
+\showindex{Index of Authors and Composers}{authidx}
+\showindex{Index of Scripture}{scripidx}
 
 \end{document}
 

@@ -40,8 +40,8 @@
 \setlength{\textheight}{9.1in}
 \settowidth{\versenumwidth}{1.\ }
 \pagestyle{fancy}
-\newindex{indeks}{titles}
-\newauthorindex{autorzy}{authors}
+\newindex{indeks}{tytuly}
+\newauthorindex{autorzy}{cbauth}
 
 \begin{document}
 \fancyhf{}
