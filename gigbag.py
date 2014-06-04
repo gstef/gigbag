@@ -50,7 +50,7 @@ def save_file(filename,songbook,append):
     print('LaTeX source saved as ',filename)
 
 def multiply_keywords(keywords):
-    """Adds possible permutations to the list of keywords. Crude and ugly, will be replaced soon"""
+    """Warning, code so crude it may give you cancer, Will be replaced ASAP"""
     output = []
     output += keywords
     # Case variations
@@ -125,7 +125,7 @@ def load_keywords (category, filename):
     return multiply_keywords(keywords)
     
 def load_markers(filename):
-    """Deprecated!"""
+    """Deprecated, stays just in case"""
     print('Loading markers: ',filename,' ...')
     in_file = open(filename,'r')
     markers = []
@@ -607,6 +607,7 @@ def output_song (song,blocks,markers_dict,chords_definitions):
     print('Processing song "',title,'"')
     output.append('\\beginsong{'+title+'}[')
     output.append('  by={'+artist+'},')
+    output.append('  cr={'+author+'},')  
     output.append('  ititle={'+alt_title+'}]\n')
     
     #Song content
@@ -648,7 +649,7 @@ def usage():
     
 def main ( argv ):
     """Main routine"""
-    print('Gigbag ver 0.6')
+    print('Gigbag ver 0.6.1')
     
     # File defaults:
     chord_file = 'chords_ukulele'

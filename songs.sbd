@@ -1,1048 +1,100 @@
-
-\beginsong{Ukulelepszy świat}[
-  by={Czarownica},
-  cr={sł. i muz. Iwonka Sasak
-}]
-
-\beginverse
-Bywa \[Am]czasem tak, że smutek nasze serca nęka
-W żyłach \[Em]pełza żal, wszystko leci z rąk i pęka
-I wy\[C]daje się nam, że gorzej \[G]raczej już nie będzie
-Pamię\[F]tajcie wtedy, \[G7]że w końcu na\[C]dejdzie
-\endverse
-
-\beginchorus
-Uku\[C]lelepszy świat, uku\[G]lelepszy czas
-Uku\[F]le(w)leje radość w uku\[G7]lelepszych \[C]nas
-\endchorus 
+\beginsong{Hey Jude}[
+  by={The Beatles},
+  cr={McCartney},
+  ititle={}]
 
 \beginverse
-Nawet \[Am]latem zdarza się, że coś nas gnębi
-Nagła \[Em]chwyta złość i dotyka nas do głębi
-Wtedy \[C]idź na spacer w las, \brk znajdź \[G]powalony pień
-Usiądź i \[F]podziwiaj jaki \[G7]piękny jest ten \[C]dzień
+H\[F]ey Jude dont make\[C] it bad
+take a\[F]  s\[C7]ad   song  and ma\[C7]ke it bet\[F]ter
+Re\[Bb]member to let her into your h\[F]eart
+and then you can sta\[C]rt to make it be\[F]tter
 \endverse
-
-\beginchorus
-Uku\[C]leleci ptaszek, w uku\[G]leletni czas
-W uku\[F]lelesie szumi, uku\[G7]leletni \[C]wiatr
-\endchorus
-
-\beginverse 
-Zdarza \[Am]się, że los wywieje nas w dalekie strony
-Daleko \[Em]jest rodzina i daleko nasze domy
-Wtedy \[C]pamiętaj nie siedź sam, \brk wyjdź do \[G]ludzi, rozchmurz się
-I zaś\[F]piewaj razem z \[G7]nami piosnkę \[C]tę
-\endverse
-
-\beginchorus
-Uku\[C]lelet’s be happy, uku\[G]lelet’s get loud
-Uku\[F]lelet’s get drunk and uku\[G7]lelet’s have \[C]fun
-\endchorus
 
 \beginverse
-Czasem, przyz\[Am]naję się, sama też nagle smutnieję
-Nic nie \[Em]cieszy mnie, w ogóle nie wiem co się dzieje
-Lecz le\[C]karstwo na ten stan niesie \[G]właśnie piosnka ta
-Mieć przy \[F]sobie kogoś, kto wa\[G7]runki spełnia \[C]dwa
+Hey Jud\[F]e dont be afrai\[C]d
+you wer\[F]e ma\[C7]de    to  go   ou\[C7]t and ge\[F]t her
+The mi\[Bb]nute you let her under your sk\[F]in
+then you beg\[C]in to make it bet\[F]ter\[Fmaj7]\[F7]
 \endverse
 
-\beginchorus
-Uku\[C]le(ś)le uśmiechy, w uku\[G]lelewo prawo
-Ukule\[F]leje piwo w uku\[G7]lelistki \[C]gardło
-\endchorus
+\beginverse
+And anytime you feel the pa\[Bb]in hey jude ref\[Gm]rain
+dont ca\[Gm7]rry the wo\[C]rld up\[C]on your shoul\[F]ders\[Fmaj7]\[F7]
+For well you know that its a fo\[Bb]ol who p\[Bb]lays it co\[Gm]ol
+by mak\[Gm7]ing his wo\[C]rld  a lit\[C]tle col\[F]der
+\endverse
 
-\beginchorus
-Teraz u\[C]waga! Czas na morał! 
-Niech zapa\[G]mięta każdy z Was!
-Uku\[F]leleczy smutki. Uku\[G7]leleczy z \[C]ran.
-Uku\[C]lelepszy świat, uku\[G]lelepszy czas
-Uku\[F]le(w)leje radość w uku\[G7]lelepszych \[C]nas
-\endchorus
+\beginverse
+Da da d\[F6]a d\[F7]a da   D\[C]a   da    da    da\[C]\[F]\[C7]
+\endverse
 
+\beginverse
+Hey Jud\[F]e dont let me do\[C]wn
+You ha\[F]ve fou\[C7]nd  \[C]her  now g\[C7]o and ge\[F]t her
+Reme\[Bb]mber to let her into you he\[F]art
+then you can sta\[C]rt to make it bet\[F]ter\[Fmaj7]\[F7]
+\endverse
+
+\beginverse
+So let it out and let it i\[Bb]n hey J\[Bb]ude beg\[Gm]in
+your wa\[Gm7]iting for so\[C]meone to perf\[F]orm with\[Fmaj7]\[F7]
+And dont you know that its just y\[Bb]ou hey j\[Bb]ude you'll d\[Gm]o
+The mo\[Gm7]vement you n\[C]eed is o\[C]n your sho\[F]ulders
+Da da d\[F6]a d\[F7]a da   d\[C]a  \[C]da   da    da\[C]\[F]\[C7]
+\endverse
+
+\beginverse
+Hey Ju\[F]de dont make it b\[C]ad
+take a\[F]  s\[C7]ad   song  and make it b\[F]etter
+Rem\[Bb]ember to let her under your sk\[F]in
+and then you'll beg\[C]in to make it bet\[F]ter
+\endverse
+
+\beginverse
+N\[F]a na na n\[Eb]a na na na
+N\[Bb]a na na na
+Hey Ju\[F]de   (Repeat and fade)
+\endverse
 
 \musicnote{
-\gtab{Am}{2000}
-\gtab{Em}{0432}
-\gtab{G}{0232}
 \gtab{F}{2010}
-\gtab{G7}{0212}
-}
-\endsong
-
-\songcolumns{3}
-\baselineadj=-12pt plus 1pt minus 1pt
-
-
-\beginsong{Ukeopowieści}[
-  by={Grześ},
-  cr={sł. i muz. Grześ Stefanek
-}]
-
-\beginverse
-\[Am]Kiedy chmiel zaszumi w głowie
-\[G]Kiedy plektron struny pieści
-\[Am]Wtedy chętnie słucha człowiek
-\[G]Ukeopo\[Am]wieści 
-\endverse
-
-\beginchorus
-Hej ha, kolejkę nalej      
-Hej ha, polewaj czystej      
-Uke jest doskonałe      
-I przezajebiste!
-\endchorus
-
-\beginverse
-Choć instrument to niewielki 
-Wdzięku mnóstwo ma i seksu 
-Wiedzą widząc go panienki 
-Że nie masz kompleksów 
-\endverse
-
-\beginchorus
-Hej, wszak to zrozumiałe      
-Hej, całkiem oczywiste      
-Uke jest doskonałe      
-I przezajebiste!
-\endchorus
-
-\beginverse
-Kiedy ciężko ci na duszy 
-Kiedy w gardle znów cię suszy 
-Walnij bracie dawkę chmielu 
-Rżnąc na ukulelu
-\endverse
-
-\beginchorus
-Hej ha, kolejkę nalej      
-Hej zaśpiewajmy chórem      
-Uke jest doskonałe      
-Więc szklanice w górę!
-\endchorus
-
-\beginverse
-A gdy już ci wszystko jedno 
-Gdy wypiłeś ciut za wiele 
-Piwko polej jeszcze jedno 
-Łap za ukulele 
-\endverse
-
-\beginchorus
-Kto chce, niechaj wierzy      
-Kto nie chce, niech nie wierzy      
-Tylko na tym nam zależy      
-Żeby pograć jeszcze   
-\endchorus
-
-\beginverse
-Potem rankiem po imprezie 
-Głośny dźwięk wyzwala mdłości 
-Doceń wtedy ów instrument 
-O mniejszej głośności 
-\endverse
-
-\beginchorus
-Hej ha, kolejkę nalej      
-Hej ha, kielichy wznieśmy      
-To zrobi doskonale      
-Uke opowieściom! 
-\endchorus
-
-\beginverse
-Gdy cię gitarzysta wkurzy 
-Że instrument masz za mały 
-Mów: wszak mamy dwaj po dużym 
-I po drugim małym 
-\endverse
-
-\beginchorus
-Hej, wszak to zrozumiałe      
-Hej, gitarę mają leszcze      
-A uke jest doskonałe      
-Więc zagrajmy jeszcze! 
-\endchorus
-
-\beginverse
-Panna się podobać stara 
-Uke może jej się przydać 
-Lepsza uke niż gitara 
-Cycki zza niej widać 
-\endverse
-
-\beginchorus
-Hej ha, kolejkę  nalej      
-Hej ha, i więcej polej      
-Uke jest doskonałe      
-Więc jeszcze nam dolej!
-\endchorus
-
-\beginverse
-I choć biustem cię udusi  
-Nogi długi jak gazeli 
-Dobra panna jeszcze musi 
-Dobrze ukulelić
-\endverse
-
-\beginchorus
-Kto chce niechaj słucha      
-Kto nie chce, niech nie słucha      
-Jak balsam są dla ucha      
-Dźwięki ukulele
-\endchorus
-
-\beginverse
-Choć gitara strun ma wiele, 
-Wielka wada jest jej taka 
-Znacznie łatwiej ukulele 
-Zmieścić do plecaka
-\endverse
-
-\beginchorus
-Hej ha, browarek nalej      
-Hej ha, i jeszcze dolej      
-Uke jest doskonałe      
-A gitarę olej!
-\endchorus
-
-\beginverse
-Maiski sklepik nam prowadzi 
-Biedne nasze są portfele 
-Choćbyś spłukał się do gaci 
-Kupisz ukulele 
-\endverse
-
-\beginchorus
-Hej, ha, śpiewają w niebie      
-Hej, anioły srebrzyste      
-Hej, uwielbiamy ciebie      
-Uke zajebiste!  
-\endchorus
-
-\beginverse
-Bosko się Iwonki słucha 
-Miód ma w głosie, zapał szczery 
-Zgrzytem jednak jest dla ucha 
-Uke "Dimavery"
-\endverse
-
-\beginchorus
-Hej zaśpiewajmy jeszcze      
-Hej ha, i w górę szklanki      
-Hej, ukulele lepsze      
-Niż usta kochanki!
-\endchorus
-
-\beginverse
-Ciocia Monia, cicha woda 
-Siedzi i się nie odzywa 
-Lecz gdy piosnkę nam zapoda 
-Łezka z oka spływa   
-\endverse
-
-\beginchorus
-Hej ha, kolejkę nalej      
-Hej ha, zaśpiewaj zatem      
-Uke jest doskonałe      
-Uke rządzi światem!
-\endchorus
-
-\beginverse
-Romek także jest prawdziwym 
-uzdolnionym skurczybykiem 
-Chodzi jednak nieszczęśliwy 
-że nie jest Chińczykiem  
-\endverse
-
-\beginchorus
-Kto chce, niechaj wierzy      
-Kto nie chce, niech nie wierzy      
-Nam na tym nie zależy      
-Więc zagrajmy jeszcze
-\endchorus
-
-\beginverse
-Wojtek gra na ukuleli 
-Aby zwabić piękne panie 
-Żonę wielce to weseli 
-Myśli, że to dla niej
-\endverse
-
-\beginchorus
-Hej, ha, zawyjmy śpiewem      
-Hej, ha, ogłośmy drukiem      
-Hej, uwielbiamy ciebie      
-Ukochane uke! 
-\endchorus
-
-\beginverse
-Już dla wszystkich oczywiste 
-Każdy z nas tak przecież sądzi 
-Uke jest przezajebiste 
-Ukulele rządzi  
-\endverse
-
-\beginchorus
-Hej, śpiewa miasto całe      
-Hej, aż przechodzą dreszcze      
-Uke jest doskonałe      
-Więc wypijmy jeszcze    
-\endchorus
-
-\musicnote{
-\gtab{Am}{2000}
-\gtab{G}{0232}
-}
-
-\endsong
-
-
-\songcolumns{2}
-
-\beginsong{Milionerzy}[
-  by={Jaromir Nohavica},
-  cr={sł. i muz. Jaromir Nohavica, tłum. Renata Putzlacher
-}]
-
-\beginverse
-W naszym \[D]domu mówią \[A]o mnie łebski \[D]Franek
-Bo mam \[D]olej w głowie i\[G] poukła\[D]dane
-Kiedy \[D]ktoś nie kontak\[Em]tuje,
-Gdy mu \[A]główka nie pra\[D]cuje
-Wpada \[D]wnet po mądre \[A]słowo druko\[D]wane
-\endverse
-
-\beginchorus
-\[D]Ha \[Em]ha, \[A]ha ha ha \[D]ha
-Wpada \[D]wnet po mądre \[A]słowo druko\[D]wane
-\endchorus
-
-\beginverse
-Kumpel, który widział sto teleturniejów
-mówi: z taką głową wygrasz Milionerów!
-Pomyślunek masz niezgorszy,
-w telewizji tyle forsy
-Wszystko zgarniesz, kiedy siądziesz przed kamerą
-\endverse
-
-\beginverse
-I już siedzę w wielkim studiu z całą zgrają
-Tam poczułem, że mi nerwy nawalają
-Z przyciskami miałem biedę,
-nacisnąłem a, be, ce, de
-Już mnie za stolikiem, kurwa, upychają
-\endverse
-
-\beginverse
-Ledwo żyję, Hubert pyta, jak się czuję
-Miniwywiad ile jaram i tankuję
-Parę danych o mej dniówce
-włos zjeżyło mu na główce
-Koło ratunkowe go nie poratuje
-\endverse
-
-\beginverse
-Gdy poczułem się w tym studiu trochę śmielej
-Hubert spytał, co to znaczy ukulele
-W głowie pustka że aż miło,
-to mnie całkiem pogrążyło
-Mówię: chcę się skonsultować z przyjacielem
-\endverse
-
-\beginverse
-Bodzio, w mordę, miał przepity głos i chrypę
-Znowu chlał, a będzie twierdził, że miał grypę
-Słychad było, jak tam dyszy,
-kilka długich sekund ciszy
-Marny wynik, kiedy kumpel "wstawia lipę"
-\endverse
-
-
-\beginverse
-Moja stara przed ekranem sfiksowała
-Cały naród patrzył jak tam daję ciała
-Ludzie gryźli odbiorniki i czekali na wyniki
-Pewnie ukulele to bułgarska skała
-\endverse
-
-
-\beginverse
-Już pięćdziesiąt na pięćdziesiąt ekran świeci
-za a) piszą, że to jakieś polne kwiecie
-za b) instrument strunowy,
-nic nie wpada mi do głowy
-więc publiczność błagam: Ludzie, pomożecie!?
-\endverse
-
-
-\beginverse
-Luźny Hubert ciągle machał banknotami
-Mówię: skup się, stary, nie daj się omamić!
-Głowę mam nie od parady
-ale chcę zasięgnąć rady
-Niech się ciemna masa męczy z przyciskami
-\endverse
-
-\beginverse
-Sam ciekawy byłem, co też widz wybierze
-Przecież można się pomylić w dobrej wierze
-Be ma dziewięćdziesiąt procent,
-jednoznaczna skala ocen
-Gdy coś nie jest na sto dwa, to szlak mnie
-bierze
-\endverse
-
-
-\beginverse
-Jestem twardziel i uznaję racje święte
-Ryzykuję, chodbym zginąć miał ze szczętem
-Choć na maksa się zesrałem,
-Hubert wrzeszczał, że wygrałem
-Ukulele jest hawajskim instrumentem
-\endverse
-
-
-\beginverse
-Ludzie skandowali: Franek - tęga głowa
-Hubert stówkę pokazywał, tłum falował
-Trochę nadrabiałem gestem,
-bo ja przecież ze wsi jestem
-Lecz dopiąłem swego - dotrzymałem słowa!
-\endverse
-
-
-\beginverse
-Mówię: panie prezenterze, trudna rada
-Biorę stówę bo już zwinąć się wypada
-Pora wracać do Ostrawy,
-Hubert jęknął: nie ma sprawy!
-I widziałem, jak na glebę gość upada
-\endverse
-
-\beginverse
-Zaszalałem - wykupiłem przedział śliczny
-W zajebistym Intercity elektrycznym
-Całą resztę datek skromny
-oddam w domu na bezdomnych
-Bo Ostrawa jest regionem specyficznym.
-\endverse
-
-\musicnote{
-\gtab{D}{2220}
 \gtab{C}{0003}
-\gtab{A}{2100}
-\gtab{Em}{0432}
-\gtab{G}{0232}
-}
-
-
-\endsong
-
-\baselineadj=+0pt plus 3pt minus 3pt
-
-\beginsong{Somewhere Over the Rainbow / Wonderful World}[
-  by={Israel Kamakawiwo`Ole},
-  cr={sł. i muz. E.Y.Harburg, Harold Arlen, Bob Thiele, George David Weiss},
-  ititle={Wonderful World},
-  ititle={Over the Rainbow}]
-
-\beginverse*
-\nolyrics{Intro: \[C]\[Em]\[F]\[C]\[F]\[E7]\[Am]\[F]}
-\endverse*
-
-\beginverse
-
-\[C]Somewhere \[Em]over the rainbow \[F]way up \[C]high 
-\[F]And the \[C]dreams that you dream of \brk \[G]once in a lulla\[Am]by\[F] 
-\[C]Somewhere \[Em]over the rainbow \[F]blue birds \[C]fly 
-\[F]And the \[C]dreams that you dream of \brk \[G]dreams really do come \[Am]true\[F] 
-\endverse
-
-\beginchorus
-Some \[C]day I'll wish upon a star, 
-\[G]wake up where the clouds are far be\[Am]hind \[F]me 
-Where \[C]trouble melts like lemon drops 
-\[G]High above the chimney tops \brk is \[Am]where you'll \[F]find me 
-\[C]Somewhere \[Em]over the rainbow \[F]bluebirds \[C]fly 
-\[F]And the \[C]dreams that you dare to \brk oh \[G]why, oh why can't \[Am]I?\[F] 
-\endchorus
-
-\beginverse
-Well I see \[C]trees of \[Em]green and \[F]red roses too\[C]  
-\[F]I'll watch then \[C]bloom for \[E7]me and \[Am]you 
-And I \[F]think to myself, \[G]what a wonderful \[Am]world\[F] 
-Well I see \[C]skies of \[Em]blue and I see \[F]clouds of \[C]white 
-and the \[F]brightness of \[C]day, \[E7]I like the \[Am]dark 
-and I \[F]think to myself, \brk \[G]what a wonderful \[C]world\[F]\[C] 
-\endverse
-
-\beginverse
-The \[G]colors of the rainbow so \[C]pretty in the sky 
-are \[G]also on the faces of \[C]people passing by 
-I see \[F]friends shaking \[C]hands,\brk saying, \[F]How do you \[C]do? 
-\[F]They're really \[C]saying, \[Dm7]I, I love \[G]you 
-I hear \[C]babies \[Em]cry and I \[F]watch them \[C]grow, 
-\[F]They'll learn much \[C]more \[E7]than we'll \[Am]know 
-And I \[F]think to myself, \brk  \[G]what a wonderful \[Am]world\[F] 
-\endverse
-
-\beginchorus
-Some \[C]day I'll wish upon a star, 
-\[G]wake up where the clouds are far be\[Am]hind \[F]me 
-Where \[C]trouble melts like lemon drops 
-\[G]High above the chimney tops \brk is \[Am]where you'll \[F]find me 
-\[C]Somewhere \[Em]over the rainbow \[F]bluebirds \[C]fly 
-\[F]And the \[C]dreams that you dare to, \brk oh \[G]why, oh why can't \[Am]I?\[F] 
-\endchorus
-
-\musicnote{
-\gtab{C}{0003}
-\gtab{Em}{0432}
-\gtab{F}{2010}
-\gtab{E7}{1202}
-\gtab{Am}{2000}
-\gtab{G}{0232}
-}
-
-\endsong
-
-\beginsong{Tonight You Belong to Me}[
-  by={Gene Austin},
-  cr={sł.Billy Rose,muz.Lee David},
-  index={I know You belong to somebody new}]
-
-\beginverse
-\[F]I know (I know) 
-You \[F7]belong to \[Bb]somebody \[Bbm]new 
-\[F]But Tonight you \[C7]belong to \[F]me \[Gm7]\[C7]
-\endverse
-
-\beginverse
-\[F]Although (although) 
-we're \[F7]apart you're \[Bb]part of my \[Bbm]heart 
-\[F]And tonight you \[C7]belong to \[F]me \[Gm7]\[C7]
-\endverse
-
-\beginchorus
-\[Bbm]Way down by the stream 
-\[Bbm]How sweet it will seem 
-\[F]Once more just to \[D7]dream 
-In the \[G7]moonlight \[C7]
-\endchorus
-
-\brk
-
-\beginverse
-My honey I \[F]know (I know) 
-With the \[F7]dawn that \[Bb]you will be \[Bbm]gone 
-\[F]But tonight you \[C7]belong to \[F]me \[Gm7]\[C7]
-\endverse
-
-\beginchorus
-\[Bbm]Way down, way down along the stream 
-\[Bbm]How very, very sweet it will seem 
-\[F]Once more just to \[D7]dream 
-In the silvery \[G7]moonlight \[C7]
-\endchorus
-
-
-\beginverse
-\chordsoff
-My honey I \[F]know (I know) 
-With the \[F7]dawn that \[Bb]you will be \[Bbm]gone 
-\[F]But tonight you \[C7]belong to \[F]me 
-Just to \[C7]little old \[F]me
-
-\chordson
-\endverse
-
-\musicnote{
-\gtab{F}{2010}
-\gtab{F7}{2313}
-\gtab{Bb}{3211}
-\gtab{Bb}{3111}
 \gtab{C7}{0001}
-\gtab{Gm7}{0211}
-\gtab{G7}{0212}
-}
-
-\endsong
-
-\beginsong{Tiptoe Through the Tulips}[
-  by={Tiny Tim},
-  cr={sł. i muz. Al Dubin i Joe Burke}]
-
-\beginverse
-\[C]Tiptoe \[A7]by the \[F]window \[G7]
-By the \[C]window \[E7]
-That is \[F]where I'll \[Fm]be, 
-Come \[C]tip \[A7]toe through the \[F]tulips \[G7]
-With \[C]me \[A7]\[F]\[G7]\[C]
-\endverse
-
-\beginverse
-\[C]Tiptoe \[A7]from your \[F]pillow \[G7]
-To the \[C]shadow \[E7]
-Of the \[F]willow \[Fm]tree, 
-And \[C]tip \[A7]toe through the \[F]tulips \[G7]
-With \[C]me \[C7]
-\endverse
-
-\beginchorus
-\[Dm7]Knee deep 
-In \[Em]flow\[Cdim]ers \[G7]we'll \[A7]stray 
-\[B7]We'll keep 
-The \[Em]sho\[Cdim]wers a\[G7]way.
-
-\[A7]And \[D7]if \[G7]I...
-\endchorus
-
-\beginverse
-\[C]Kissed you \[A7]in the \[F]garden \[G7]
-In the \[C]moonlight \[E7]
-Would you \[F]pardon \[Fm]me? 
-Come \[C]tip \[A7]toe through the \[F]tulips \[G7]
-With \[C]me \[A7]\[F]\[G7]\[C]
-\endverse
-
-\musicnote{
-\gtab{C}{0003}
-\gtab{A7}{0100}
-\gtab{F}{2010}
-\gtab{G7}{0212}
-\gtab{Fm}{2120}
-\gtab{E7}{1202}
-\gtab{D7}{2223}
-\gtab{B7}{2322}
-}
-
-\endsong
-
-\beginsong{Mister Sandman}[
-  by={The Chordettes},
-  cr={sł. i muz. Pat Ballard},
-  index={Sandman}]
-
-\beginverse
-Mister \[Cmaj7]Sandman, \[B7]bring me a dream. 
-\[E7]Make him the cutest that \[A7+5]I've ever \[A7]seen. 
-\[D7]Give him the word that \[G7]I'm not a rover, 
-\[C]then tell him that his \[Am7]lonesome \[Cdim]nights are \[G7]over. 
-\endverse
-
-\beginverse
-Mister \[Cmaj7]Sandman, \[B7]I'm so alone. 
-\[E7]Don't have nobody to \[A7+5]call my \[A7]own. 
-\[Dm]Please turn on your magic \[Dm7]beam.
-Mister \[D7]Sandman, \[G7]bring me a \[C]dream.
-\endverse
-
-\beginchorus
-Mister \[D7]Sandman, \[G7]bring me, \[D7]please, please, \[G7]bring me 
-Mister \[D7]Sandman, \[G7]bring me a \[C]dream. \[G7]\[C]
-\endchorus
-
-\musicnote{
-\gtab{Cmaj7}{0002}
-\gtab{B7}{2322}
-\gtab{E7}{1202}
-\gtab{A7+5}{0110}
-\gtab{A7}{0100}
-\gtab{D7}{2223}
-\gtab{G7}{0212}
-\gtab{C}{0003}
-\gtab{Am7}{0000}
-\gtab{C}{1212}
-\gtab{Dm}{2210}
-\gtab{Dm}{2213}
-}
-
-\endsong
-
-\beginsong{Hit the Road Jack}[
-  by={Ray Charles i Margie Hendricks},
-  cr={sł. i muz. Percy Mayfield}]
-
-\beginverse*
-\nolyrics{Intro: \[Am]\[G]\[F]\[E7]} \rep{4} 
-\endverse*
-
-\beginchorus
-Hit the \[Am]road \[G]Jack. \[F]Don't you come \[E7]back 
-No \[Am]more, no \[G]more, no \[F]more, no \[E7]more. 
-Hit the \[Am]road \[G]Jack \brk and \[F]don't you come \[E7]back 
-no \[Am]more.\[Am]\[G]\[F]\[E7]
-\endchorus
-
-\beginverse
-Oh \[Am]woman, oh \[G]woman, don't \[F]treat me so \[E7]mean, 
-You're the \[Am]meanest \[G]woman I've \[F]ever \[E7]seen. 
-I \[Am]guess if \[G]you \[F]say \[E7]so 
-I'll \[Am]have to \[G]pack my \[F]things and \[E7]go. 
-\endverse
-
-\beginchorus
-Hit the road Jack...
-\endchorus
-
-\beginverse
-Now \[Am]baby, listen \[G]baby, \brk don't-a \[F]treat me this-a \[E7]way 
-For I'll \[Am]be back \[G]on my \[F]feet some \[E7]day. 
-Don't \[Am]care if you \[G]do 'cause it's \[F]under\[E7]stood 
-you ain't \[Am]got no \[G]money you just \[F]ain't no \[E7]good. 
-Well, I \[Am]guess if you \[G]say so \[F]\[E7]
-I'd \[Am]have to \[G]pack my \[F]things and \[E7]go. (That's right) 
-\endverse
-
-
-\beginchorus
-Hit the road Jack...
-\endchorus
-
-\musicnote{
-\gtab{Am}{2000}
-\gtab{G}{0232}
-\gtab{F}{2010}
-\gtab{E7}{1202}
-}
-
-\endsong
-
-\beginsong{Doo Wah Diddy}[
-  by={The Exciters},
-  cr={sł. i muz.  Jeff Barry and Ellie Greenwich},
-  index={There she was just a walkin' down the street}]
-
-\beginverse*
-\nolyrics{Intro: \[C]\[F]\[C]}
-\endverse*
-
-\beginverse
-There she was just a walkin' down the street
-Singin' \[C]doo wah diddy diddy \[F]dum diddy \[C]doo
-\[C]Snappin' her fingers and \[F]shufflin' her \[C]feet
-Singin' \[C]doo wah diddy diddy \[F]dum diddy \[C]doo
-\[C]She looked good (looked good) she looked fine (looked fine)
-\[C]She looked good she looked fine and I nearly lost my mind
-\endverse
-
-\beginverse
-Be \[C]fore I knew it she was \[F]walkin' next to \[C]me
-Singin' \[C]doo wah diddy diddy \[F]dum diddy \[C]doo
-\[C]Holdin' my hand just as \[F]natural as can \[C]be
-Singin' \[C]doo wah diddy diddy \[F]dum diddy \[C]doo
-\[C]We walked on (walked on) to my door (my door)
-\[C]We walked on to my door \brk then we kissed a little more
-\endverse
-
-\beginchorus
-\[C]Whoa \[C7]whoa I \[Am]knew we was falling in love
-\[F]....... yes I did and so I \[G7]told her all the things I'd been dreamin' of
-\endchorus
-
-\beginverse
-Now \[C]we're together nearly \[F]every single \[C]day
-Singin' \[C]doo wah diddy diddy \[F]dum diddy \[C]doo
-Oh \[C]we're so happy and that’s \[F]how we're gonna \[C]stay
-Singin' \[C]doo wah diddy diddy \[F]dum diddy \[C]doo
-\[C]I'm hers (I'm hers) she's mine (she's mine)
-\[C]I'm hers she's mine wedding bells are gonna chime
-\endverse
-
-\beginchorus
-\[C]Whoa \[C7]whoa I \[Am]knew we was falling in love
-\[F]....... yes I did and so I \[G7]told her all the things I'd been dreamin' of
-\endchorus
-
-\beginverse
-Now we're together nearly every single day
-Singin' \[C]doo wah diddy diddy \[F]dum diddy \[C]doo
-Oh \[C]we're so happy and that’s \[F]how we're gonna \[C]stay
-Singin' \[C]doo wah diddy diddy \[F]dum diddy \[C]doo
-\[C]I'm hers (I'm hers) she's mine (she's mine)
-\[C]I'm hers she's mine wedding bells are gonna chime \[G7]whoa oh yeah
-\[C]Doo wah diddy diddy \[F]dum diddy \[C]doo x 3
-\endverse
-
-\musicnote{
-\gtab{C}{3000}
-\gtab{F}{2010}
-\gtab{G}{0232}
-}
-
-\endsong
-
-
-\beginsong{Creep}[
-  by={Radiohead},
-  cr={sł. i muz.  Jeff Barry and Ellie Greenwich},
-  index={I'm a creep}]
-
-\beginverse
-When you were here \[G]before, 
-Couldn't look you in the \[B]eyes 
-You look like an \[C]angel, 
-Your skin makes me \[Cm]cry 
-\endverse
-
-\chordsoff
-
-\beginverse
-You float like a \[G]feather, In a beautiful \[B]weather 
-I wish I was \[C]special, You're so very \[Cm]special 
-\endverse
-
-\chordson
-
-\beginchorus
-But I'm a \[G]creep. I'm a \[B]weirdo.
-What the hell am I doin' \[C]here? I don't belong \[Cm]here.
-\endchorus
-
-\chordsoff
-
-\beginverse
-I don't care if it \[G]hurts, I wanna have con\[B]trol 
-I wanna perfect \[C]body, I want a perfect \[Cm]soul 
-\endverse
-\beginverse
-I want you to \[G]notice, When I'm not a \[B]round 
-You're so very \[C]special, I wish I was \[Cm]special.... 
-\endverse
-
-\beginchorus
-But I'm a \[G]creep. I'm a \[B]weirdo.
-What the hell am I doin' \[C]here? I don't belong \[Cm]here.
-\endchorus
-
-\chordson
-
-\beginverse*
-\[G]She's running out \[B]again 
-\[C]She's running \[Cm]out 
-\[G]She run run run \[B]run... 
-\[C]run... \[Cm]run... 
-\endverse*
-
-\beginverse
-Whatever makes you \[G]happy, Whatever you \[B]want 
-You're so very \[C]special, Wish I was \[Cm]special... 
-\endverse
-
-\beginchorus
-But I'm a \[G]creep. I'm a \[B]weirdo.
-What the hell am I doin' \[C]here? I don't belong \[Cm]here.
-
-I don't belong \[G]here 
-\endchorus
-
-\musicnote{
-\gtab{G}{0232}
-\gtab{B}{3211}
-\gtab{C}{0001}
-\gtab{Cm}{0333}
-}
-
-\endsong
-
-
-\beginsong{Kebab w cienkim cieście}[
-  by={Zacier},
-  cr={sł. i muz. Mirosław Jędras},
-  index={Wyszedłem dzisiaj z roboty},
-  ititle={}]
-
-\beginverse
-Wy\[Dm]szedłem dzisiaj z roboty
-Gdyż nie \[Gm]miałem, nie miałem co robić w ro\[Dm]bocie
-Gdyż nie miałem co robić
-Poszedłem do Turka na rogu i \[Gm]mówię mu:
-Daj mi proszę kebab w cienkim \[Dm]cieście
-Kebab w cienkim \[Gm]cieście proszę mi daj, in the sky
-A on mi \[Eb]na to, że \[F]właśnie zabrakło \[Gm]baraniny
-A on mi na \[Eb]to, że nie\[F]stety zabrakło bara\[Gm]niny
-\endverse
-
-\beginchorus
-\[Gm]Kebab w cienkim cieście
-Po \[Eb]nocach mi się śni
-Po nocach mi się śni
-\[F]Kebab w cienkim cieście
-\[Gm]Dajcież dzisiaj mi
-Och dajcież dajcież mi
-\[Gm]Kebab w cienkim cieście
-Po \[Eb]nocach mi się śni
-O tibidibidi
-\[F]Kebab w cienkim cieście
-\[Gm]Dajcież mi, oh yeah...
-\endchorus
-
-\beginverse
-Odszedłem niepocieszony
-I do nocy włóczyłem się po mieście
-I do nocy włóczyłem się po moim mieście
-Gdy na długo zapadły w mej pamieci te słowa złowieszcze
-Na długo zapadły w mej pamięci
-Że to dzisiaj, właśnie dzisiaj zabrakło baraniny
-Żo to dzisiaj, właśnie dzisiaj zabrakło baraniny
-\endverse
-
-
-\beginverse
-Już nigdy nie pójdę na kebab
-I będę nieustannie żywił się jajecznicą
-Nieustannie będę żywił się jajecznicą
-A jednak czasem serce zadrga
-I zaskowycze niczym hiena nad Pilicą
-Zaskowycze jak hiena nad Pilicą
-Bo to dzisiaj właśnie dzisiaj zabrakło baraniny
-Bo to dzisiaj właśnie dzisiaj zabrakło baraniny
-\endverse
-
-
-
-\musicnote{
-\gtab{Dm}{2210}
+\gtab{Bb}{3211}
+\gtab{Fmaj7}{2413}
+\gtab{F7}{2310}
 \gtab{Gm}{0231}
-\gtab{F}{2010}
-\gtab{Eb}{0331}
+\gtab{Gm7}{0211}
+\gtab{F6}{2213}
+\gtab{Eb}{3331}
 }
-
-
 \endsong
-
-\beginsong{Chomik}[
-  by={Bistro},
-  cr={sł. i muz. Bistro},
-  index={Wreszcie nadszedł ten dzień},
-  ititle={}]
-
-\beginverse
-\[Am]Wreszcie nadszedł ten \[E7]dzień
-W \[Am]którym kupiłem se cho\[E7]mika
-\[Am]Nie wiedziałem
-\[E7]Ile było w tym ryzyka
-\[Am]Bo ten chomik to \[C]była dzika bestia
-\[Am]Potwór zeżarł mi \[C]wszystkie krzesła
-\[Am]Potem rzucił się \[C]na moją siostrę
-\[Am]Wbił w nią swe wszystkie \[E7]zęby ostre
-\endverse
-
-\beginchorus
-\[Am]Dziki chomik, \[C]dziki chomik
-\[F]Jest na wol\[G]ności
-\[Am]Uciekajcie, \[C]uciekajcie
-\[E7]Póki mo\[C]żecie
-\endchorus
-
-\beginverse
-Wściekły chomik gna przez polskę
-Siejąc terror i zgrozę
-Prezydent już w swym bunkrze
-Pomóc nam nie może
-Pod Belwederem czołgi stoją
-Wszyscy chomika się boją
-W całym kraju stan wyjątkowy
-Atakuje nas chomik domowy
-\endverse
-
-
-\beginverse
-Przeklęty niech będzie dzień
-W którym kupiłem se chomika
-Teraz już wiem
-Ile było w tym ryzyka
-Wściekły chomik nadchodzi, cholera
-Nie pomogły blokady Leppera
-Cały naród modli się ostro
-Nic nie pomogło, chomik zjadł Krosno
-\endverse
-
-\musicnote{
-\gtab{Am}{2000}
-\gtab{E7}{1202}
-\gtab{C}{0003}
-\gtab{F}{2010}
-\gtab{G}{0232}
-}
-
-\endsong
-
-\beginsong{Dzieci}[
-  by={Elektryczne gitary},
-  cr={sł. i muz. Kuba Sienkiewicz},
-  index={Wszyscy mamy źle w głowach},
-  ititle={}]
-
-\beginverse
-\[Dm]Dzieci wesoło wy\[C]biegły ze szkoły 
-\[Dm]zapaliły papierosy, \[C]wyciągnęły flaszki 
-\[Dm]chodnik zapluły, \[C]ludzi przepędziły 
-\[Dm]siedzą na ławeczkach i \[C]ryczą do siebie 
-\endverse
-
-\beginchorus
-\[Dm]Wszyscy mamy źle w głowach, \[C]że żyjemy 
-\[Dm]Hej hej, la la la la, \[Dm] hej hej hej hej
-\nolyrics{ \rep{2} }
-\endchorus
-
-\beginverse
-Tony papieru, tomy analiz 
-Genialne myśli, tłumy na sali 
-Godziny modlitw, lata nauki 
-Przysięgi, plany, podpisy, druki 
-\endverse
-
-\beginverse
-Wzorce przykłady, szlachetne zabiegi 
-Łańcuchy dłoni, zwarte szeregi 
-Warstwy tradycji, wieki kultury 
-Tydzień dobroci, ręce do góry 
-\endverse
-
-\beginverse
-Dzieci wesoło wybiegły ze szkoły 
-Zapaliły papierosy, wyciągnęły flaszki 
-Chodnik zapluły, ludzi przepędziły 
-Siedzą na ławeczkach i ryczą do siebie
-\endverse
-
-\musicnote{
-\gtab{Dm}{2210}
-\gtab{C}{0003}
-}
-
-\endsong
-
 
 \beginsong{Zanim pójdę}[
   by={Happysad},
-  cr={sł. Kuba Kawalec, muz. Happysad},
-  index={Ile jestem ci winien},
+  cr={},
   ititle={}]
 
 \beginverse
-Ile \[Am]jestem \[Dm]ci \[Em]winien
-Ile poli^czyłaś mi ^za swą ^przyjaźń    
-Ale kiedy ^wszystko już ^oddam ^czy     
-Będziesz \[Am]szczęśliwa i \[Dm]wolna \[Em]czy 
-Będziesz \[Am]szczęśliwa i \[Dm]wolna \[Em]czy     
-Ale zanim \[Am]pójdę \[Dm] \[Em]                            
-Ale zanim \[Am]pójdę \[Dm] \[Em] 
-Ale zanim \[Am]pójdę
-chcialbym po\[Dm]wiedzieć ci \[Em]że
+Ile jestem ci winien \nolyrics{\[a] \[d] \[e] }
+Ile policzyłaś mi za swą przyjaźń
+Ale kiedy wszystko już oddam czy
+Będziesz szczęśliwa i wolna czy
+Ale zanim pójdę
+Ale zanim pójdę
+Ale zanim pójdę \nolyrics{\[a] }
+chcialbym powiedzieć ci że \nolyrics{\[d] \[e] }
 \endverse
 
-\beginchorus   
-\[Am]Miłość to nie plu\[Dm]szowy \[Em]miś ani \[Am]kwiaty
-To też nie \[Dm]diabeł ro\[Em]gaty    
-Ani \[Am]miłość kiedy \[Dm]jedno \[Em]płacze
-A \[C]drugie po nim \[F]skacze   
-Bo \[Am]miłość to żaden \[Dm]film w żadnym \[Em]kinie       
-Ani ^róże ani ca^łusy małe ^duże
-Ale ^miłość kiedy ^jedno spada \[G]w dół
-Drugie \[C]ciągnie je ku \[F]górze
+\beginchorus
+Miłość to nie pluszowy miś ani kwiaty \nolyrics{\[a] \[d] \[e] \[a] }
+To też nie diabeł rogaty \nolyrics{\[d] \[e] }
+Ani miłość kiedy jedno płacze \nolyrics{\[a] \[d] \[G] }
+A drugie po nim skacze                           C F
+Bo miłość to żaden film w żadnym kinie \nolyrics{\[a] \[d] \[e] }
+Ani róże ani całusy małe duże \nolyrics{\[a] \[d] \[e] }
+Ale miłość kiedy jedno spada w dół \nolyrics{\[a] \[d] \[G] }
+Drugie ciągnie je ku górze \nolyrics{\[C] \[F] }
 \endchorus
 
 \beginverse
@@ -1054,341 +106,52 @@ Ale zanim pójdę chcialbym powiedzieć ci że
 \endverse
 
 \musicnote{
-\gtab{Am}{2000}
-\gtab{Dm}{2210}
-\gtab{Em}{0432}
-\gtab{G}{0232}
-\gtab{C}{0333}
-\gtab{F}{2010}
-\gtab{G}{0232}
-}
-
-
-\endsong
-
-\beginsong{Hej kobieto}[
-  by={Strachy na lachy},
-  cr={sł. Grabaż, muz. Bob Marley},
-  index={Ona dla zasady nie całuje w usta mnie},
-  ititle={}]
-
-
-
-\beginverse
-\[G]Ona dla za\[D]sady nie ca\[Em]łuje w usta \[C]mnie
-Zawsze kiedy śmierdzę wódką
-Chociaż często sam kiedy nie widzi nikt
-Umie nawalić się aż smutno
-Bez łez i złudzeń i bez prawa veta
-Między językiem a śliną
-Między pierwszym skurczem a dobrym dreszczem
-Gdzieś między karą a winą
-\endverse 
-
-\beginchorus
-Hej po co ten płacz...
-Hej kobieto, po co ten płacz...
-\nolyrics{ \rep{2} }
-\endchorus
-                                      
-\beginverse
-Ona tak naprawdę tylko wtedy dobrze czuje się
-Tylko wtedy, kiedy robi to z kimś ważnym
--firanki na duszę-
-Na nocnym stoliku leżą brulion i guma
-Starczy miejsca na miłość i sztukę
-\endverse 
- 
-\beginverse 
-Nadchodzi taki moment jest taka chwila       
-Pewnie znów zaraz zatrzęsie się ziemia
--stoi głupiec z łukiem-
-Jeśli naprawdę jest taka jak o niej mówią
-Zawsze przedtem ściąga z szyi łańcuszek
-\endverse
-
-\beginverse 
-Nadchodzi taki moment, jest taka chwila
-Teraz wiem chyba teraz rozumiem...
-Te wszystkie ciche dni te wszystkie głuche telefony
-Te wszystkie ciche dni te wszystkie głuche telefony
-Te wszystkie ciche dni te wszystkie głuche telefony
-Śpię spokojnie, jak dziecko śpię
-Wiem, że to od niej
-\endverse
-
-
-\musicnote{
-\gtab{G}{0232}
-\gtab{D}{2220}
-\gtab{Em}{0432}
-\gtab{C}{0333}
-}
-
-
-\endsong
-
-\beginsong{Hej analityku}[
-  by={Grześ},
-  cr={sł. Grześ Stefanek, muz. Bob Marley},
-  index={A gdyby tak piasku wywrotkę},
-  ititle={Smutna piosenka pracującego ukisty}]
-
-
-
-\beginverse
-\[G]A gdyby tak \[D]piasku wy\[Em]wrotkę albo \[C]dwie
-Rozsypać wprost na wykładzinie
-Na wieniec z kwiatów swój krawat zmienić chcę
-Jak to na produktywność wpłynie?
-Tu zamiast morza wentylacji cichy szum
-I wciąż mi płacą tak niewiele
-Lecz nic to, mówię sobie,
-Przecież cano, ergo sum
-Przecież mam w domu ukulele
-\endverse 
-
-\beginchorus
-Hej po co ten płacz...
-Pracowniku, po co ten płacz
-Hej po co ten płacz...
-Analityku, po co ten płacz
-\endchorus
-                                      
-\beginverse
-Gdy jestem w pracy, moje ukulele śpi
-W domu w czarnym futerale
-I tylko czasem, kiedy nie widzi nikt
-To na youtubie film odpalę
-Między Excelem a Powerpointem
-W ciemnym kącie openspejsu
-Film z ukulele i z hawajskim słońcem
-Da szczyptę dźwięku, troszkę sensu
-\endverse 
- 
-\beginverse 
-Wciąż myslę sobie: nadejdzie chwila ta
-Gdy rzucę biurko i laptopa
-Lecz jeszcze jeden projekt, może jeszcze dwa
-Po co mi życie, jest robota
-Na wirtualnym ukulele w myślach gram
-Na dobrą nutę się nastrajam 
-Tu zamiast C++ mam G, C, E i A
-Tu zawsze jestem na Hawajach
-\endverse
-
-\beginchorus
-Hej po co ten płacz...
-Pracowniku, po co ten płacz
-Hej po co ten płacz...
-Analityku, po co ten płacz
-Hej po co ten płacz...
-Kierowniku, po co ten płacz
-Hej po co ten płacz...
-Hej niewolniku, po co ten płacz
-\endchorus
-
-
-\musicnote{
-\gtab{G}{0232}
-\gtab{D}{2220}
-\gtab{Em}{0432}
-\gtab{C}{0333}
-}
-
-\endsong
-
-
-
-\beginsong{I should have known better}[
-  by={The Beatles},
-  cr={sł. i muz. John Lennon i Paul McCartney},
-  ititle={}]
-
-\beginverse
-I\[G D G] \[G]should have known \[G]better \brk with a \[D]girl like \[G]you \[D]
-That i would \[G]love every\[D]thing that you \[Em]do
-And i \[C]do, Hey hey \[D]hey and i \[G]do \[D] \[G]
-\[D]Woh oh woh oh i\[G D G] \[D]never rea\[G]lised \brk what a \[D]kiss could \[G]e \[D]
-This could \[G]only \[D]happen to \[Em]me 
-Can't you \[C]see can't you \[B7]see
-\endverse
-
-\beginchorus
-\[Em]That when i \[C]tell you that i \[G]love you, \[B7]oh
-\[Em]Your gonna \[C]say you love me \[G]too, \[G7]
-\[C]And when i \[D]ask you to be \[G]mine \[Em]    
-\[C]Your'e gonna \[D]say you love me \[G]too. \[D] \[G]
-\endchorus
-
-\beginverse
-\[D]Sooo I\[G D G] \[D]should have rea\[G]lised \brk a \[D]lot of things be\[G]fore \[D] 
-If this is \[G]love you got to \[D]give me \[Em]more
-Give me \[C]more hey hey \[D]hey give me \[G]more \[D] \[G]
-\endverse
-
-\beginverse*
-Instrumental:
-\nolyrics{ \[G D  G  D  G  D  G  D]}
-\nolyrics{ \[G  D  Em]}
-\nolyrics{ \[C  D  G  D  G]}
-\endverse
-
-\beginverse
-\[D]Woh oh woh oh i\[G D G] \[D]never rea\[G]lised what a \[D]kiss could \[G]be \[D]
-This could \[G]only \[D]happen to \[Em]me 
-Can't you \[C]see can't you \[B7]see
-\endverse
-
-\beginchorus
-\[Em]That when i \[C]tell you that i \[G]love you, \[B7]oh
-\[Em]Your gonna \[C]say you love me \[G]too, \[G7]
-\[C]And when i \[D]ask you to be \[G]mine \[Em]    
-\[C]Your'e gonna \[D]say you love me \[G]too. \[D] \[G]
-You \[D]love me \[G]too \[D] \[G] \rep{3}
-\endchorus
-
-\musicnote{
-\gtab{G}{0232}
-\gtab{D}{2220}
-\gtab{Em}{0432}
-\gtab{C}{0333}
-\gtab{B7}{2322}
-}
-
-\endsong
-
-\beginsong{Love me do}[
-  by={The Beatles},
-  cr={sł. i muz. John Lennon i Paul McCartney},
-  ititle={}]
-
-\beginverse
-\[G]Love, love me \[C]do
-You \[G]know I love \[C]you
-I'll \[G]always be \[C]true
-So pl\[C]eeeeeease...     Love me \[C]do
-\nolyrics{\rep{2}}
-\endverse
-
-\beginchorus                     
-\[D]Someone to \[C]love, \[F]omebody \[G]new
-^Someone to ^love, ^someone like ^you
-\endchorus
-
-\beginverse
-Love, love me do...
-\nolyrics{\rep{2}}
-\endverse
-
-\musicnote{
+\gtab{a}{2000}
+\gtab{d}{2210}
+\gtab{e}{0432}
 \gtab{G}{0232}
 \gtab{C}{0003}
+\gtab{F}{2010}
+}
+\endsong
+
+\beginsong{I'm a Believer}[
+  by={The Monkees},
+  cr={},
+  ititle={Shrek song}]
+
+\beginverse
+\[G]I thought love was \[D]only true in \[G]fairy tales
+\[G]Meant for someone \[D]else but not for \[G]me.
+\[C]Love was out to \[G]get me
+\[C]That's the way it \[G]seemed.
+\[C]Disappointment \[G]haunted all my \[D]dreams.
+\endverse
+
+\beginchorus
+Then I saw her \[G]face \[C]
+Now I'm a be\[G]liever \[C]
+Not a \[G]trace \[C]
+Of doubt in my \[G]mind \[C]
+I'm in \[G]love, \[C]
+I'm a be\[G]liever!
+I couldn't \[F]leave her
+If I \[D]tried.
+\endchorus
+
+\beginverse
+\[G]I thought love was \[D]more or less a \[G]given thing,
+\[G]Seems the more I \[D]gave the less I \[G]got
+\[C]What's the use in \[G]trying?
+\[C]All you get is \[G]pain.
+\[C]When I needed \[G]sunshine I got \[D]rain
+\endverse
+
+\musicnote{
+\gtab{G}{0232}
 \gtab{D}{2220}
-\gtab{F}{2010}
-}
-
-\endsong
-
-\beginsong{All my loving}[
-  by={The Beatles},
-  cr={sł. i muz. John Lennon i Paul McCartney},
-  ititle={}]
-
-\beginverse
-Close your \[Dm]eyes and I’ll \[G]kiss you
-To\[C]morrow I’ll \[Am]miss you,
-Re\[F]member I’ll \[Dm]always be \[Bb]true. \[G]
-And then \[Dm]while I'm \[G]away
-I’ll write \[C]home every \[Am]day,
-And I’ll \[F]send all my \[G7]loving to \[C]you.
-\endverse
-
-\beginchorus
-All my \[Am]loving, \[C+]I will send to \[C]you
-All my \[Am]loving, \[C+]darling I’ll be \[C]true.
-\endchorus
-
-\beginverse
-I’ll pre [Dm] tend that I'm [G] kissing
-The [C] lips I am [Am] missing
-And [F] hope that my [Dm] dreams will come [Bb] true. [G]
-And then [Dm] while I'm [G] away 
-I’ll write [C] home every [Am] day,
-And I’ll [F] send all my [G7] loving to [C] you.
-\endverse
-
-\beginverse
-Close your eyes...
-\endverse
-
-\beginchorus
-All my \[Am]loving, \[C+]I will send to \[C]you
-All my \[Am]loving, \[C+]darling I’ll be \[C]true.
-All my \[Am]loving.
-All my \[C]Loving, Ooooooo.
-All my \[Am]loving, I will send to \[C]you.
-\endchorus
-
-\musicnote{
-\gtab{Dm}{2210}
-\gtab{G}{0232}
 \gtab{C}{0003}
-\gtab{Am}{2000}
 \gtab{F}{2010}
-\gtab{Bb}{3211}
-\gtab{G7}{0212}
-\gtab{C+}{1003}
 }
-
-\endsong
-
-\beginsong{Eight Days a Week}[
-  by={The Beatles},
-  cr={sł. i muz. John Lennon i Paul McCartney},
-  index={Ooh I need your love babe}
-  ititle={}]
-
-\beginverse*
-Intro: \nolyrics{\[C] \[D7] \[F] \[C]}
-\endverse
-
-\beginverse
-\[C]Ooh I need your \[D7]love babe \[F]guess you know it's \[C]true
-\[C]Hope you need my \[D7]love babe \[F]just like I need \[C]you
-\[Am]Hold me \[F]love me \[Am]hold me \[D7]love me
-\[C]Ain't got nothing but \[D7]love babe \[F]eight days a \[C]week
-\endverse
-
-\beginverse
-\[C]Love you every \[D7]day girl \[F]always on my \[C]mind
-\[C]One thing I can \[D7]say girl \[F]love you all the \[C]time
-\[Am]Hold me \[F]love me \[Am]hold me \[D7]love me
-\[C]Ain't got nothing but \[D7]love babe \[F]eight days a \[C]week
-\endverse
-
-\beginchorus
-\[G]Eight days a week I \[Am]love you
-\[D7]Eight days a week is \[F]not enough to \[G7]show I care
-\endchorus
-
-\beginverse*
-\rep{2}
-\endverse
-
-\beginverse*
-Outro: \nolyrics{\[C] \[D7] \[F] \[C]}
-\endverse
-
-\musicnote{
-
-\gtab{G}{0232}
-\gtab{C}{0003}
-\gtab{D7}{2021}
-\gtab{Am}{2000}
-\gtab{F}{2010}
-\gtab{G7}{0212}
-}
-
 \endsong
 

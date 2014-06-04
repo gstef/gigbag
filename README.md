@@ -105,6 +105,12 @@ As for now, they're read from separate config file, and most common variations (
 
 * On some websites there will be an empty line between every line in the song. As the parser depends on empty lines for dividing songs into blocks, this is not trivial to fix, so you have to remove those manually for now.
 
+## Changelog
+
+* Gigbag 0.6.1
+    * added all missing TEX files. Content can be unpacked and compiled with LaTeX, if the environment is configured and Songs package installed
+    * fixed a bug with displaying authors in the header
+    * some cleanup and missing docstrings added in the code
 
 ## Ideas for the next update:
     
