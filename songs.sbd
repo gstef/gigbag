@@ -1,157 +1,796 @@
+\beginsong{Zapiszę śniegiem w kominie}[
+  by={Robert Kasprzycki},
+  cr={},
+  ititle={}]
+
+\beginverse
+A jeśli zabraknie na koncie pieniędzy , C G
+I w kącie zagnieździ się bieda. \nolyrics{\[F] \[C] }
+Po rozum do głowy pobiegnę niech powie, \nolyrics{\[C] \[G] }
+Co sprzedać by siebie - nie sprzedać. \nolyrics{\[F] \[F] }
+\endverse
+
+\beginchorus
+Zapiszę śniegiem w kominie, \nolyrics{\[C] \[G] }
+Zaplotę z dymu warkoczyk, \nolyrics{\[a] \[e] }
+I zanim zima z gór spłynie wrócę. \nolyrics{\[F] \[C] \[G] }
+Zapiszę śniegiem w kominie, \nolyrics{\[F] \[G] }
+Warkoczyk z dymu zaplotę, \nolyrics{\[C] \[a] }
+I zanim zima z gór spłynie wrócę, \nolyrics{\[F] \[C] \[G] }
+I będę z powrotem. \nolyrics{\[F] \[C] }
+\endchorus
+
+\beginverse
+A jeśli nie znajdę w swej głowie rozumu
+To paszport odnajdę w szufladzie.
+Zapytam go może, on pewnie pomoże,
+Poradzi jak sobie poradzić.
+\endverse
+
+\beginverse
+A jeśli zabraknie ci w sercu nadziei,
+Bo powrót jest zawsze daleko.
+Przypomnij te słowa, zaśpiewaj od nowa,
+Bym wiedział, że ktoś na mnie czeka
+\endverse
+
+\musicnote{
+\gtab{F}{2010}
+\gtab{C}{0003}
+\gtab{G}{0232}
+\gtab{a}{2000}
+\gtab{e}{0432}
+}
+\endsong
+
+\beginsong{Hiszpańskie Dziewczyny}[
+  by={Ryczące Dwudziestki},
+  cr={sł. Andrzej Mendygrał, muz. trad. „Spanish Ladies”},
+  ititle={}]
+
+\beginverse
+Ż\[Em]egnajcie nam dziś hiszp\[C]ańskie dziewc\[D]zyny
+Żegna\[Em]jcie nam dziś mar\[C]zenia ze sn\[D]ów
+Ku b\[C]rzegom angi\[D]elskim już ru\[Em]szać nam pora
+Lecz k\[C]iedyś na pewno wróc\[B7]imy tu z\[Em]nów.
+\endverse
+
+\beginchorus
+I smak waszych ust, hiszpańskie dziewczyny
+W noc ciemną i złą nam będzie się śnił
+Leniwie popłyną znów rejsu godziny
+Wspomnienie ust waszych przysporzy nam sił
+\endchorus
+
+\beginverse
+Niedługo ujrzymy znów w dali Cape Deadman
+I głowę baranią sterczącą wśród wzgórz
+I statki stojące na redzie przy Plymouth
+Klarować kotwicę najwyższy czas już
+\endverse
+
+\beginverse
+A potem znów żagle na masztach rozkwitną
+Kurs szyper wyznaczy do Portland i Wight
+I znów stara łajba potoczy się ciężko
+Przez fale w kierunku na Beachie Fairlie Land
+\endverse
+
+\beginverse
+Zabłysną nam bielą skał zęby pod Dover
+I znów noc w kubryku, wśród legend i bajd
+Powoli i znojnie tak płynie nam życie
+Na wodach i w portach South Foreland Ligh
+\endverse
+
+\musicnote{
+\gtab{Em}{0432}
+\gtab{C}{0003}
+\gtab{D}{2220}
+\gtab{B7}{2322}
+}
+\endsong
+
 \beginsong{Hey Jude}[
   by={The Beatles},
   cr={McCartney},
   ititle={}]
 
 \beginverse
-H\[F]ey Jude dont make\[C] it bad
-take a\[F]  s\[C7]ad   song  and ma\[C7]ke it bet\[F]ter
-Re\[Bb]member to let her into your h\[F]eart
-and then you can sta\[C]rt to make it be\[F]tter
+H\[G]ey, Jude don't make it b\[D]ad,
+Take a s\[D7]ad song and make it b\[G]etter.
+R\[C]emember to let her into your h\[G]eart,
+Then you can s\[D]tart to m\[D7]ake it b\[G]etter.
 \endverse
 
 \beginverse
-Hey Jud\[F]e dont be afrai\[C]d
-you wer\[F]e ma\[C7]de    to  go   ou\[C7]t and ge\[F]t her
-The mi\[Bb]nute you let her under your sk\[F]in
-then you beg\[C]in to make it bet\[F]ter\[Fmaj7]\[F7]
+H\[G]ey Jude don't be a\[D]fraid,
+You were m\[D7]ade to go out and g\[G]et her.
+The m\[C]inute you let her under your s\[G]kin,
+Then you'll b\[D]egin to m\[D7]ake it b\[G]etter.\[G7]
 \endverse
 
-\beginverse
-And anytime you feel the pa\[Bb]in hey jude ref\[Gm]rain
-dont ca\[Gm7]rry the wo\[C]rld up\[C]on your shoul\[F]ders\[Fmaj7]\[F7]
-For well you know that its a fo\[Bb]ol who p\[Bb]lays it co\[Gm]ol
-by mak\[Gm7]ing his wo\[C]rld  a lit\[C]tle col\[F]der
-\endverse
-
-\beginverse
-Da da d\[F6]a d\[F7]a da   D\[C]a   da    da    da\[C]\[F]\[C7]
-\endverse
-
-\beginverse
-Hey Jud\[F]e dont let me do\[C]wn
-You ha\[F]ve fou\[C7]nd  \[C]her  now g\[C7]o and ge\[F]t her
-Reme\[Bb]mber to let her into you he\[F]art
-then you can sta\[C]rt to make it bet\[F]ter\[Fmaj7]\[F7]
-\endverse
-
-\beginverse
-So let it out and let it i\[Bb]n hey J\[Bb]ude beg\[Gm]in
-your wa\[Gm7]iting for so\[C]meone to perf\[F]orm with\[Fmaj7]\[F7]
-And dont you know that its just y\[Bb]ou hey j\[Bb]ude you'll d\[Gm]o
-The mo\[Gm7]vement you n\[C]eed is o\[C]n your sho\[F]ulders
-Da da d\[F6]a d\[F7]a da   d\[C]a  \[C]da   da    da\[C]\[F]\[C7]
-\endverse
-
-\beginverse
-Hey Ju\[F]de dont make it b\[C]ad
-take a\[F]  s\[C7]ad   song  and make it b\[F]etter
-Rem\[Bb]ember to let her under your sk\[F]in
-and then you'll beg\[C]in to make it bet\[F]ter
-\endverse
-
-\beginverse
-N\[F]a na na n\[Eb]a na na na
-N\[Bb]a na na na
-Hey Ju\[F]de   (Repeat and fade)
-\endverse
+\beginchorus
+A\[G7]nd any time you feel the p\[C]ain,
+Hey Jude, ref\[Am7]rain, don't carry the w\[D7]orld upon your s\[G]houlders.\[G7]
+F\[G7]or well you know that it's a f\[C]ool,
+Who plays it c\[Am7]ool, by making his w\[D7]orld a little c\[G]older.
+Na, na, n\[G7]a, na...n\[D]a, na, na, n\[D7]a...
+\endchorus
 
 \musicnote{
-\gtab{F}{2010}
+\gtab{G}{0232}
+\gtab{D}{2220}
+\gtab{D7}{2223}
 \gtab{C}{0003}
-\gtab{C7}{0001}
-\gtab{Bb}{3211}
-\gtab{Fmaj7}{2413}
-\gtab{F7}{2310}
-\gtab{Gm}{0231}
-\gtab{Gm7}{0211}
-\gtab{F6}{2213}
-\gtab{Eb}{3331}
+\gtab{G7}{0210}
+\gtab{Am7}{0000}
 }
 \endsong
 
-\beginsong{Zanim pójdę}[
-  by={Happysad},
+\beginsong{Ukulele lady}[
+  by={},
   cr={},
   ititle={}]
 
 \beginverse
-Ile jestem ci winien \nolyrics{\[a] \[d] \[e] }
-Ile policzyłaś mi za swą przyjaźń
-Ale kiedy wszystko już oddam czy
-Będziesz szczęśliwa i wolna czy
-Ale zanim pójdę
-Ale zanim pójdę
-Ale zanim pójdę \nolyrics{\[a] }
-chcialbym powiedzieć ci że \nolyrics{\[d] \[e] }
+If \[C]you like Ukulele Lady,
+Ukulele Lady like-a you.
+If \[G7]you like to linger where it's shady,
+Ukulele Lady linger \[C]too.
+\endverse
+
+\beginverse
+If you kiss Ukulele Lady
+While you promise ever to be true,
+And \[G7]she sees another Ukulele
+Lady fooling 'round with \[C]you \[C7]
 \endverse
 
 \beginchorus
-Miłość to nie pluszowy miś ani kwiaty \nolyrics{\[a] \[d] \[e] \[a] }
-To też nie diabeł rogaty \nolyrics{\[d] \[e] }
-Ani miłość kiedy jedno płacze \nolyrics{\[a] \[d] \[G] }
-A drugie po nim skacze                           C F
-Bo miłość to żaden film w żadnym kinie \nolyrics{\[a] \[d] \[e] }
-Ani róże ani całusy małe duże \nolyrics{\[a] \[d] \[e] }
-Ale miłość kiedy jedno spada w dół \nolyrics{\[a] \[d] \[G] }
-Drugie ciągnie je ku górze \nolyrics{\[C] \[F] }
+\[F]Maybe she'll sigh
+\[C]Maybe she'll cry
+\[D7]Maybe she'll find somebody else\[G7]
+By and by
 \endchorus
 
 \beginverse
-Ile jestem ci winien
-Ile policzyłaś mi za swą przyjaźń
-Ile były warte nasze słowa
-Kiedy próbowaliśmy wszystko od nowa
-Ale zanim pójdę chcialbym powiedzieć ci że
+To \[C]sing to when it's cool and shady
+Where the tricky wicky wacky woo
+If \[G7]you like Ukulele Lady,
+Ukulele Lady like-a \[C]you
 \endverse
 
 \musicnote{
-\gtab{a}{2000}
-\gtab{d}{2210}
-\gtab{e}{0432}
-\gtab{G}{0232}
 \gtab{C}{0003}
+\gtab{G7}{0210}
+\gtab{C7}{0001}
 \gtab{F}{2010}
+\gtab{D7}{2223}
 }
 \endsong
 
-\beginsong{I'm a Believer}[
-  by={The Monkees},
+\beginsong{Piekarnik}[
+  by={Akurat},
   cr={},
-  ititle={Shrek song}]
+  ititle={}]
+
+\beginverse*
+Intro:
+\nolyrics{\[Am] \[F] \[C] \[G] }
+\endverse
 
 \beginverse
-\[G]I thought love was \[D]only true in \[G]fairy tales
-\[G]Meant for someone \[D]else but not for \[G]me.
-\[C]Love was out to \[G]get me
-\[C]That's the way it \[G]seemed.
-\[C]Disappointment \[G]haunted all my \[D]dreams.
+Rozwaliło mi piekarnik rozwaliło
+Coś zrobiła ty rozwalająca siło
+Jak jest zbudowany świat
+Stał piekarnik tyle lat
+Z piekarnikiem teraz bez
+Nie powstrzymam się od łez
+\endverse
+
+\beginverse
+Rozwaliło mi piekarnik w moim domu
+Choć nic złego nie uczyniłbym nikomu
+Nikt nie mówił o mnie źle
+Nikt nie denerwował się
+Komu jestem winien co
+Ze spotkało mnie to zło
+\endverse
+
+\beginverse
+Komu jestem winien co
+Że spotkało mnie to zło
+\endverse
+
+\musicnote{
+\gtab{Am}{2000}
+\gtab{F}{2010}
+\gtab{C}{0003}
+\gtab{G}{0232}
+}
+\endsong
+
+\beginsong{Powroty II}[
+  by={Smugglers},
+  cr={sł. i muz. K. Jurkiewicz},
+  ititle={}]
+
+\beginverse
+B\[D]oję się nieba w twoich oczach
+Jeszcze d\[G]rżysz ze zmęczenia i potu,
+Świat chcesz d\[A]zielić na białe i czarne,
+Miły, b\[G]oję się twoich powrot\[D]ów
 \endverse
 
 \beginchorus
-Then I saw her \[G]face \[C]
-Now I'm a be\[G]liever \[C]
-Not a \[G]trace \[C]
-Of doubt in my \[G]mind \[C]
-I'm in \[G]love, \[C]
-I'm a be\[G]liever!
-I couldn't \[F]leave her
-If I \[D]tried.
+Drżysz j\[G]eszcze, oczy zamglone
+Zrobisz w\[A]szystko, o co poproszę
+Muszę w\[Bm]ierzyć, przecież mnie kochasz
+Krótka c\[G]hwila i wracasz
+Krótka ch\[A]wila i wracasz
+Krótka ch\[G]wila i wracasz na mor\[D]ze
 \endchorus
 
 \beginverse
-\[G]I thought love was \[D]more or less a \[G]given thing,
-\[G]Seems the more I \[D]gave the less I \[G]got
-\[C]What's the use in \[G]trying?
-\[C]All you get is \[G]pain.
-\[C]When I needed \[G]sunshine I got \[D]rain
+Boję się morza w twoich myślach,
+Kiedy jesteś do drogi już gotów,
+Leżysz przy mnie, oczy otwarte,
+Miły, boję się twoich powrotów
+\endverse
+
+\beginverse
+Boję się chmur nad twoim czołem,
+Kiedy ręce do krwi otarte
+Dumnie kładziesz przede mną na stole
+Miły, boję się twoich powrotów
+\endverse
+
+\musicnote{
+\gtab{D}{2220}
+\gtab{G}{0232}
+\gtab{A}{2100}
+\gtab{Bm}{4222}
+}
+\endsong
+
+\beginsong{Dziki Włóczęga}[
+  by={Mechanicy Szanty},
+  cr={sł. Henryk „Szkot” Czekała, muz. trad. „The Wild Rover”},
+  ititle={}]
+
+\beginverse
+Byłem d\[G]zikim w\[D]łóczęgą przez t\[G]ak wiele d\[C]ni,
+Przepuści\[G]łem pieni\[D]ądze na d\[C]ziwki i g\[G]in.
+Dzisiaj w\[G]racam do d\[D]omu, pełny z\[G]łota mam t\[C]rzos,
+I zap\[G]omnieć chcę w\[D]reszcie, jak p\[C]odły był l\[G]os.
+\endverse
+
+\beginchorus
+Już nie w\[G]rócę na m\[D]orze
+N\[G]igdy więcej, o n\[C]ie!
+Wreszcie k\[G]oniec włóc\[C]zęgi,
+Na p\[D]ewno to w\[G]iem!
+\endchorus
+
+\beginverse
+I poszedłem do baru, gdzie bywałem nie raz,
+Powiedziałem barmance, że forsy mi brak.
+Poprosiłem o kredyt, powiedziała: „Idź precz!
+Mogę mieć tu stu takich na skinienie co dzień.”
+\endverse
+
+\beginverse
+Gdy błysnąłem dziesiątką, to skoczyła jak kot
+I butelkę najlepszą przysunęła pod nos.
+Powiedziała zalotnie: „Co chcesz, mogę Ci dać.”
+Ja jej na to: „Ty flądro, spadaj, znam inny bar.”
+\endverse
+
+\beginverse
+Gdy stanąłem przed domem, przez otwarte drzwi
+Zobaczyłem rodziców - czy przebaczą mi?
+Matka pierwsza spostrzegła, jak w sieni wciąż tkwię,
+Zobaczyłem ich radość i przyrzekłem, że
 \endverse
 
 \musicnote{
 \gtab{G}{0232}
 \gtab{D}{2220}
 \gtab{C}{0003}
+}
+\endsong
+
+\beginsong{Śmiały Harpunnik}[
+  by={Cztery Refy},
+  cr={sł. Marek Siurawski, muz. trad „The Bold Harpooner”},
+  ititle={}]
+
+\beginverse
+Nasz Di\[Am]ament prawie got\[Em]ów już, w cieśnin\[Am]ach nie ma kry\[Em]
+Na k\[Am]ei piękne p\[Em]anny stoją, w o\[F]czach b\[G]łyszczą ł\[Am]zy
+Kap\[Am]itan w niebo w\[Em]lepia wzrok, rusz\[Am]amy lada d\[Em]zień
+Płyni\[Am]emy tam gdzie s\[Em]łońca blasku nie m\[F]ąci n\[G]ocy c\[Am]ień.
+\endverse
+
+\beginchorus
+A więc k\[Am]rzycz: A\[G]ho\[Am]j!
+Odw\[Am]agę w s\[G]ercu m\[Am]iej
+Wielor\[Am]ybów cielska gro\[C]źne s\[G]ą
+Lecz d\[Dm]ostan\[Em]iemy j\[Am]e
+\endchorus
+
+\beginverse
+Hej panno, powiedz po co łzy, nic nie zatrzyma mnie
+Bo prędzej w lodach kwiat zakwitnie, niż wycofam się
+No, nie płacz mała, wrócę tu, nasz los nie taki zły
+Bo da dukatów wór za tran i wielorybie kły
+\endverse
+
+\beginverse
+Na deku stary wąchał wiatr, lunetę w ręku miał
+Na łodziach co zwisały już z harpunem każdy stał
+I dmucha tu i dmucha tam, ogromne stado w krąg
+Harpuny, wiosła, liny brać i ciągnij brachu ciąg
+\endverse
+
+\beginverse
+I dla w\[Am]ielor\[G]yba już
+O\[Am]stat\[G]ni to d\[Am]zień
+Bo ś\[Am]miały harpu\[C]nni\[G]k
+U\[Dm]der\[Em]za w\[Am]eń!
+\endverse
+
+\musicnote{
+\gtab{Am}{2000}
+\gtab{Em}{0432}
 \gtab{F}{2010}
+\gtab{G}{0232}
+\gtab{C}{0003}
+\gtab{Dm}{2210}
+}
+\endsong
+
+\beginsong{Gdzie ta keja}[
+  by={Jurek Porębski},
+  cr={sł. i muz. J. Porębski},
+  ititle={}]
+
+\beginverse
+G\[Am]dyby tak ktoś przyszedł i powiedział:
+S\[G]tary, czy masz c\[Am]zas?
+Potrzeb\[C]uję do załogi j\[G7]akąś nową t\[C]warz
+Amaz\[C7]onka, Wielka Rafa, o\[F]ceany t\[Dm]rzy
+Rejs na c\[Am]ałość, rok - dwa lata, t\[E7]o powiedział b\[Am]ym:
+\endverse
+
+\beginchorus
+Gdzie ta k\[Am]eja, a p\[E7]rzy niej ten j\[Am]acht?
+Gdzie ta k\[C]oja w\[G]ymarzona w s\[C]nach?
+Gdzie te w\[Gm]szystkie sznurki o\[A7]d tych s\[Dm]zmat?
+Gdzie ta b\[Am]rama n\[E7]a szeroki ś\[Am]wiat?
+Gdzie ta k\[Am]eja, a p\[E7]rzy niej ten j\[Am]acht?
+Gdzie ta k\[C]oja w\[G]ymarzona w s\[C]nach?
+W każdej c\[Gm]hwili płynę w t\[A7]aki r\[Dm]ejs.
+Tylko g\[Am]dzie to jest? N\[E7]o gdzie to j\[Am]est?
+\endchorus
+
+\beginverse
+Gdzieś na dnie wielkiej szafy leży ostry nóż
+Stare dżinsy wystrzępione impregnuje kurz,
+W kompasie igła zardzewiała, lecz kierunek znam,
+Biorę wór na plecy i przed siebie gnam
+\endverse
+
+\beginverse
+Przeszły lata zapyziałe, rzęsą zarósł staw,
+A na przystani czółno stało - kolorowy paw,
+Zaokrągliły się marzenia, wyjałowiał step,
+Lecz dalej marzy o tym rejsie ten samotny łeb
+\endverse
+
+\musicnote{
+\gtab{Am}{2000}
+\gtab{G}{0232}
+\gtab{C}{0003}
+\gtab{G7}{0210}
+\gtab{C7}{0001}
+\gtab{F}{2010}
+\gtab{Dm}{2210}
+\gtab{E7}{1202}
+\gtab{Gm}{0231}
+\gtab{A7}{0100}
+}
+\endsong
+
+\beginsong{Pożegnanie Liverpoolu}[
+  by={Cztery Refy},
+  cr={sł. Jerzy Rogacki i Krzysztof Kuza, muz. trad. „The Leaving of Liverpool”},
+  ititle={}]
+
+\beginverse
+Ż\[C]egnaj nam dosto\[C7]jny, stary p\[F]orci\[C]e
+Rzeko M\[C]ersey żegnaj n\[G]am\[G7]
+Zaciągn\[C]ąłem się na r\[C7]ejs do Kalif\[F]or\[C]ni
+Byłem ta\[C]m już niej\[G7]eden r\[C]az
+\endverse
+
+\beginchorus
+A więc ż\[G7]egnaj mi, koch\[F]ana m\[C]a!
+Za ch\[C]wilę wypłyniemy w długi r\[G]ejs\[G7]
+Ile mies\[C]ięcy cię nie b\[C7]ędę widział n\[F]ie wiem s\[C]am,
+Lecz pam\[C]iętać zawsze b\[G7]ędę c\[C]ię
+\endchorus
+
+\beginverse
+Zaciągnąłem się na herbaciany kliper
+Dobry statek, choć sławę ma złą
+A że kapitanem jest tam stary Burgess,
+Pływającym piekłem wszyscy go zwą
+\endverse
+
+\beginverse
+Z kapitanem tym płynę już nie pierwszy raz
+Znamy się od wielu, wielu lat
+Jeśliś dobrym żeglarzem – radę sobie dasz
+Jeśli nie – toś cholernie wpadł
+\endverse
+
+\beginverse
+Żegnaj nam dostojny, stary porcie,
+Rzeko Mersey żegnaj nam
+Wypływamy już na rejs do Kaliforni
+Gdy wrócimy – opowiemy wam.
+\endverse
+
+\musicnote{
+\gtab{C}{0003}
+\gtab{C7}{0001}
+\gtab{F}{2010}
+\gtab{G}{0232}
+\gtab{G7}{0210}
+}
+\endsong
+
+\beginsong{Z pijanym żeglarzem}[
+  by={Cztery Refy},
+  cr={sł. R. Burchardt, muz. trad. „The Drunken Sailor”},
+  ititle={}]
+
+\beginverse
+Z pij\[Am]anym żeglarzem co zrobimy,
+Z pij\[G]anym żeglarzem co zrobimy,
+Z pij\[Am]anym żeglarzem co zrobimy,
+G\[C]dy przyjd\[G]zie ran\[Am]iutko?
+\endverse
+
+\beginchorus
+Hej, jak się zabawimy,
+Hej, jak się zabawimy,
+Hej, jak się zabawimy,
+Gdy przyjdzie raniutko!
+\endchorus
+
+\beginverse
+Szpunt wyciągnijmy, niech tonie w wodzie...
+\endverse
+
+\beginverse
+W zęzę złożywszy wężem lejmy...
+\endverse
+
+\beginverse
+Trzymajmy go za nogi, gdy rzygać będzie...
+\endverse
+
+\beginverse
+Wszorujemy go w likszparę...
+\endverse
+
+\beginverse
+Włóżmy go do kapitańskiej koi...
+\endverse
+
+\beginverse
+Klina na kaca też mu nie dajmy...
+\endverse
+
+\musicnote{
+\gtab{Am}{2000}
+\gtab{G}{0232}
+\gtab{C}{0003}
+}
+\endsong
+
+\beginsong{Do prostego człowieka}[
+  by={Akurat},
+  cr={sł. Julian Tuwim},
+  ititle={}]
+
+\beginverse
+Gdy do m\[Am]urów klajstrem świeżym
+Przylepiać z\[Am]aczną obwieszczenia,
+Gdy "do l\[Dm]udności", "do żołnierzy"
+Na alarm c\[F]zarny druk uderzy
+\endverse
+
+\beginverse
+I byle drab, i byle szczeniak
+W odwieczne kłamstwo ich uwierzy
+Że trzeba iść i z armat walić,
+Mordować, grabić, truć i palić;
+\endverse
+
+\beginverse
+Gdy zaczną na tysięczną modłę
+Ojczyznę szarpać deklinacją
+I łudzić kolorowym godłem
+I judzić "historyczną racją"
+\endverse
+
+\beginverse
+O piędzi, chwale i rubieży,
+O ojcach, dziadach i sztandarach
+O bohaterach i ofiarach;
+O bohaterach i ofiarach
+\endverse
+
+\beginverse
+Gdy wyjdzie biskup, pastor, rabin
+Pobłogosławić twój karabin,
+Bo mu sam Pan Bóg szepnął z nieba
+Że za ojczyznę - bić się trzeba
+\endverse
+
+\beginverse
+Kiedy rozścierwi się, rozchami
+Wrzask liter pierwszych stron dzienników
+A stado dzikich bab - kwiatami
+Obrzucać zacznie "żołnierzyków"
+\endverse
+
+\beginverse
+O, przyjacielu nieuczony,
+Mój bliźni z tej czy innej ziemi!
+Wiedz, że na trwogę biją w dzwony
+Króle z panami brzuchatemi
+\endverse
+
+\beginverse
+Wiedz, że to bujda, granda zwykła
+Gdy ci wołają: Broń na ramię!
+Że im gdzieś nafta z ziemi sikła
+I obrodziła dolarami
+\endverse
+
+\beginverse
+Że coś im w bankach nie sztymuje
+Że gdzieś zwęszyli kasy pełne
+Lub upatrzyły tłuste szuje
+Cło jakieś grubsze na bawełnę
+\endverse
+
+\beginverse
+Rżnij karabinem w bruk ulicy!
+Twoja jest krew, a ich jest nafta!
+I od stolicy do stolicy
+Zawołaj broniąc swej krwawicy:
+Bujać - to my, panowie szlachta!"
+\endverse
+
+\musicnote{
+\gtab{Am}{2000}
+\gtab{Dm}{2210}
+\gtab{F}{2010}
+}
+\endsong
+
+\beginsong{O dziewiątkach}[
+  by={Akurat},
+  cr={},
+  ititle={}]
+
+\beginverse
+Nie b\[Dm]oję się ob\[B]ietnic
+Nie lę\[Dm]kam się zazd\[B]rości
+N\[Dm]ie dbam o nag\[B]rody
+K\[C]pię z przyzwoit\[G]ości
+Lecz chociaż tak beztrosko
+Płyną moje dni
+Przez jedną małą sprawę
+Często ocieram łzy
+\endverse
+
+\beginverse
+Problem cały w tym
+Nie mogę sobą być
+Bo dziewięć różnych snów
+Co noc przychodzi śnić
+Dziewięć naraz myśli
+Dziewięć marzeń mam
+Dziewięć pocałunków
+Od dziewięciu pięknych dam
+\endverse
+
+\beginverse
+Lecz jedno tylko ciało
+Na dziewięć rwących serc
+Stanowczo to za mało
+Wiec mogę chcieć
+Mieć jeszcze jedno ciało
+Na dziewięć rwących serc
+To ciągle jest za mało
+Więc mogę więcej chcieć
+\endverse
+
+\musicnote{
+\gtab{Dm}{2210}
+\gtab{B}{4322}
+\gtab{C}{0003}
+\gtab{G}{0232}
+}
+\endsong
+
+\beginsong{A droga długa jest}[
+  by={Akurat},
+  cr={},
+  ititle={}]
+
+\beginverse
+A d\[Dm]roga długa jest
+Nie wiadomo czy ma kres
+A droga kręta jest
+Co dalej za zakrętem jest
+\endverse
+
+\beginverse
+Kamieni mnóstwo
+Pod kamieniami leży szkło
+Szło by się długo
+Gdyby nie to szkło to by się szło
+To by się szło, to by się szło
+Gdyby nie to szkło
+\endverse
+
+\beginchorus
+Choć d\[D]roga jest bez k\[F]ońca
+Pozo\[C]rnie bez znac\[G]zenia
+M\[D]niemam że mam p\[F]owody
+By dr\[C]ogi swej nie z\[G]mieniać
+Nie zm\[D]ieniać, nie zm\[F]ieniać
+Nie z\[C]mieniać\[G]
+\endchorus
+
+\musicnote{
+\gtab{Dm}{2210}
+\gtab{D}{2220}
+\gtab{F}{2010}
+\gtab{C}{0003}
+\gtab{G}{0232}
+}
+\endsong
+
+\beginsong{Lubię mówić z tobą}[
+  by={Akurat},
+  cr={},
+  ititle={}]
+
+\beginverse
+K\[Am]iedy z serca p\[C]łyną słowa
+U\[G]derzają z w\[Am]ielką mocą,
+K\[Am]rążą blisko, w\[C]śród nas, ot tak,
+D\[G]ając chętnym s\[Am]zczere złoto.
+\endverse
+
+\beginchorus
+I\[Am] dlatego l\[C]ubię m\[Em]ówić z T\[Am]obą,
+I\[Am] dlatego l\[C]ubię m\[Em]ówić z T\[Am]obą.
+\endchorus
+
+\beginverse
+Każdy myśli to, co myśli
+Myśli sobie moja głowa
+Może w końcu mi się uda
+Wypowiedzieć proste słowa.
+\endverse
+
+\musicnote{
+\gtab{Am}{2000}
+\gtab{C}{0003}
+\gtab{G}{0232}
+\gtab{Em}{0432}
+}
+\endsong
+
+\beginsong{Dzieci}[
+  by={Elektryczne Gitary},
+  cr={sł.i muz. Kuba Sienkiewicz},
+  ititle={}]
+
+\beginverse
+D\[Dm]zieci wesoło wyb\[C]iegły ze szkoły
+Z\[Dm]apaliły papierosy, w\[C]yciągnęły flaszki
+C\[Dm]hodnik zapluły, l\[C]udzi przepędziły
+S\[Dm]iedzą na ławeczkach i r\[C]yczą do siebie
+\endverse
+
+\beginchorus
+W\[Dm]szyscy mamy źle w głowach, ż\[C]e żyjemy
+H\[Dm]ej, hej, la, la, la, la, h\[C]ej, hej, hej, hej
+\endchorus
+
+\beginverse
+Tony papieru, tony analiz
+Genialne myśli, tłumy na sali
+Godziny modlitw, lata nauki
+Przysięgi, plany, podpisy, druki
+\endverse
+
+\beginverse
+Wzorce, przykłady, szlachetne zabiegi
+Łańcuchy dłoni, zwarte szeregi
+Warstwy tradycji, wieki kultury
+Tydzień dobroci, ręce do góry
+\endverse
+
+\beginverse
+Dzieci wesoło wybiegły ze szkoły
+Zapaliły papierosy, wyciągnęły flaszki
+Chodnik zapluły, ludzi przepędziły
+Siedzą na ławeczkach i ryczą do siebie...
+\endverse
+
+\musicnote{
+\gtab{Dm}{2210}
+\gtab{C}{0003}
+}
+\endsong
+
+\beginsong{Człowiek z liściem na głowie}[
+  by={Elektryczne Gitary},
+  cr={sł.i muz. Kuba Sienkiewicz},
+  ititle={}]
+
+\beginverse*
+Intro:
+\nolyrics{\[G] \[F] \[C] \[F] \[C] }
+\nolyrics{\[G] \[F] \[C] \[F] \[C] \[E7] }
+\endverse
+
+\beginverse
+W\[Am]siadł do autobusu człowiek z l\[Em]iściem na głowie
+N\[G]ikt go nie poratuje, n\[D]ikt mu nic nie powie
+T\[F]ylko się każdy g\[G]api, tylko się k\[C]ażdy\[F] gapi\[C] i nic\[E]
+S\[Am]iedzi w autobusie człowiek z l\[Em]iściem na głowie
+O l\[G]iściu w swych rzadkich włosach n\[D]ieprędko się dowie
+T\[F]ylko się w okno g\[G]api, tylko się w o\[C]kno\[F] g\[C]api i nic
+\endverse
+
+\beginchorus
+Uw\[Dm]ażaj to nie c\[G]hmury, to P\[C]ałac Kult\[F]ury\[C]
+L\[G]iście lecą z d\[F]rzew, liście lecą z drzew
+\nolyrics{\[C] \[F] \[C] \[E] }
+\endchorus
+
+\beginverse
+I tak siedzi w autobusie człowiek z liściem na głowie
+Nikt go nie poratuje, nikt mu nic nie powie
+Tylko się każdy gapi, tylko się każdy gapi i nic
+Wsiadł drugi podobny, nad człowiekiem się zlitował
+Tamten się pogłaskał w główkę liścia sobie schował
+Bo ja mówi, jestem z lasu, bo ja mówi, jestem z lasu i nic
+\endverse
+
+\musicnote{
+\gtab{G}{0232}
+\gtab{F}{2010}
+\gtab{C}{0003}
+\gtab{E7}{1202}
+\gtab{Am}{2000}
+\gtab{Em}{0432}
+\gtab{D}{2220}
+\gtab{E}{1402}
+\gtab{Dm}{2210}
 }
 \endsong
 
