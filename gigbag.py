@@ -1,4 +1,5 @@
-#!/usr/bin/python3
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
 #
 # Copyright (C) 2014 Grzesiek Stefanek
 #
@@ -6,12 +7,14 @@
 # modify it under the terms of the GNU General Public License ver.2
 # as published by the Free Software Foundation
 
-import sys, string, re, getopt
+import sys, string, re, getopt, os
+
+dir_path = os.path.dirname(os.path.realpath(__file__))
 
 def load_file (filename):
     """Returns input file as a list of strings, trimming whitespace at end"""
     try:
-        infile = open(filename,'r')
+        infile = open(filename,'r', encoding='UTF-8')
     except IOError:
         print('Error: '+filename+' not found')
         sys.exit(1)
@@ -27,17 +30,17 @@ def load_file (filename):
     infile.close()
     return linelist
 
-def save_file(filename,songbook, append):
+def save_file(filename,songbook, Append):
     """Saves output and adds missing newlines"""
-    if append:
+    if Append:
         try:
-            outfile = open(filename,'a')
+            outfile = open(filename,'a', encoding='UTF-8')
         except IOError:
             print('Error while saving file',filename)
             sys.exit(1)
     else:
         try:
-            outfile = open(filename,'w')
+            outfile = open(filename,'w', encoding='UTF-8')
         except IOError:
             print('Error while saving file: ',filename)
             sys.exit(1)
@@ -652,9 +655,9 @@ def main ( argv ):
     print('Gigbag ver 0.6.1')
     
     # File defaults:
-    chord_file = 'chords_ukulele'
-    keywords_file = 'keywords.cfg'
-    output_file = 'songs.sbd'
+    chord_file = dir_path + '\chords_ukulele'
+    keywords_file = dir_path + '\keywords.cfg'
+    output_file = dir_path + '\songs.sbd'
     Append = True
     
     # Arguments handling
@@ -677,7 +680,7 @@ def main ( argv ):
         if opt in ("-c", "--chords"):
             chord_file = arg
         if opt in ('-w',"--overwrite"):
-            append = False    
+            Append = False    
         if opt in ('-k',"--keyword"):
             keywords_file = arg
             
@@ -685,7 +688,7 @@ def main ( argv ):
     print('Using input file:                    ',input_file)
     print('Using keywords file:                 ',keywords_file)
     print('Using chords file:                   ',chord_file)
-    if append:
+    if Append:
         print('Using output file in append mode:    ',output_file)
     else:
         print('Using output file in overwrite mode: ',output_file)
@@ -725,6 +728,7 @@ def main ( argv ):
         
     # That's it
     save_file(output_file,file_output, Append)
+
     
 if __name__ == "__main__":
     main( sys.argv[1:] )
